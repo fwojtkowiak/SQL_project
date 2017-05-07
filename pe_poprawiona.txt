@@ -1,0 +1,1001 @@
+Numer_char,Komentarz,Grupa,Dzial,Osoba,sciezka_char
+000001,Komentarz343,Grupa 0,Dzial 2,Cora Moody ,000001
+000002,Komentarz43,Grupa 0,Dzial 3,Jose Gilbert ,000002
+000003,Komentarz268,Grupa 1,Dzial 1,Orlando Delgado,000003
+000004,Komentarz291,Grupa 0,Dzial 2,Irene Sandoval,000004
+000005,Komentarz730,Grupa 2,Dzial 3,Shawn Santos ,000005
+000006,Komentarz323,Grupa 2,Dzial 1,Roy Weaver ,000006
+000007,Komentarz631,Grupa 2,Dzial 1,Marta Clarke,000007
+000008,Komentarz228,Grupa 0,Dzial 3,Lorraine Cortez ,000008
+000009,Komentarz660,Grupa 1,Dzial 1,Brett Swanson ,000009
+000010,Komentarz225,Grupa 1,Dzial 1,Brett Swanson ,000010
+000011,Komentarz400,Grupa 0,Dzial 2,Noah Barnes ,000011
+000012,Komentarz257,Grupa 2,Dzial 3,Shawn Santos ,000012
+000013,Komentarz735,Grupa 0,Dzial 3,Paulette Mcdaniel ,000013
+000014,Komentarz638,Grupa 2,Dzial 1,Roy Weaver ,000014
+000015,Komentarz879,Grupa 1,Dzial 3,Izydor Patryk,000015
+000016,Komentarz207,Grupa 0,Dzial 2,Jenna Dean,000016
+000017,Komentarz741,Grupa 1,Dzial 3,Rex Casey ,000017
+000018,Komentarz814,Grupa 1,Dzial 0,Alison Lyons,000018
+000019,Komentarz504,Grupa 2,Dzial 0,Cecelia Joseph,000019
+000020,Komentarz752,Grupa 1,Dzial 3,Rex Casey ,000020
+000021,Komentarz942,Grupa 2,Dzial 2,Guy Moran ,000021
+000022,Komentarz405,Grupa 2,Dzial 1,Alan Underwood ,000022
+000023,Komentarz574,Grupa 0,Dzial 3,Dennis Kelley ,000023
+000024,Komentarz992,Grupa 0,Dzial 2,Noah Barnes ,000024
+000025,Komentarz685,Grupa 1,Dzial 3,Rex Casey ,000025
+000026,Komentarz46,Grupa 1,Dzial 3,Izydor Patryk,000006/000026
+000027,Komentarz818,Grupa 2,Dzial 1,Marta Clarke,000014/000027
+000028,Komentarz849,Grupa 1,Dzial 2,Tanya Bridges ,000011/000028
+000029,Komentarz529,Grupa 1,Dzial 1,Brett Swanson ,000008/000029
+000030,Komentarz857,Grupa 2,Dzial 1,Roy Weaver ,000005/000030
+000031,Komentarz790,Grupa 1,Dzial 3,Izydor Patryk,000004/000031
+000032,Komentarz695,Grupa 1,Dzial 0,Alison Lyons,000009/000032
+000033,Komentarz199,Grupa 2,Dzial 1,Ramiro Thompson,000001/000033
+000034,Komentarz972,Grupa 1,Dzial 2,Tanya Bridges ,000010/000034
+000035,Komentarz844,Grupa 2,Dzial 0,Phil Briggs,000019/000035
+000036,Komentarz104,Grupa 0,Dzial 3,Lorraine Cortez ,000004/000036
+000037,Komentarz603,Grupa 1,Dzial 1,Ernestine Mathis ,000010/000037
+000038,Komentarz972,Grupa 1,Dzial 1,Elizabeth Conner,000005/000038
+000039,Komentarz954,Grupa 2,Dzial 1,Alan Underwood ,000006/000039
+000040,Komentarz631,Grupa 2,Dzial 2,Christina Nguyen,000025/000040
+000041,Komentarz97,Grupa 1,Dzial 0,Elsie Alvarez,000010/000041
+000042,Komentarz629,Grupa 0,Dzial 2,Jenna Dean,000024/000042
+000043,Komentarz252,Grupa 2,Dzial 2,Alberto Allison ,000023/000043
+000044,Komentarz43,Grupa 0,Dzial 3,Lorraine Cortez ,000020/000044
+000045,Komentarz518,Grupa 1,Dzial 1,Ernestine Mathis ,000006/000045
+000046,Komentarz853,Grupa 2,Dzial 2,Christina Nguyen,000012/000046
+000047,Komentarz281,Grupa 0,Dzial 3,Dennis Kelley ,000009/000047
+000048,Komentarz168,Grupa 1,Dzial 1,Elizabeth Conner,000013/000048
+000049,Komentarz503,Grupa 1,Dzial 0,Elsie Alvarez,000022/000049
+000050,Komentarz632,Grupa 1,Dzial 3,Izydor Patryk,000002/000050
+000051,Komentarz629,Grupa 0,Dzial 3,Jose Gilbert ,000025/000051
+000052,Komentarz3,Grupa 0,Dzial 3,Dennis Kelley ,000021/000052
+000053,Komentarz58,Grupa 0,Dzial 3,Naomi Shelton,000004/000053
+000054,Komentarz52,Grupa 0,Dzial 2,Allen Thompson,000011/000054
+000055,Komentarz716,Grupa 0,Dzial 2,Nora Roberts,000016/000055
+000056,Komentarz265,Grupa 2,Dzial 1,Marta Clarke,000019/000056
+000057,Komentarz947,Grupa 0,Dzial 2,Irene Sandoval,000011/000057
+000058,Komentarz470,Grupa 2,Dzial 1,Roy Weaver ,000012/000058
+000059,Komentarz276,Grupa 2,Dzial 2,Christina Nguyen,000025/000059
+000060,Komentarz264,Grupa 2,Dzial 1,Marta Clarke,000014/000060
+000061,Komentarz264,Grupa 1,Dzial 1,Luther Ramsey ,000002/000061
+000062,Komentarz762,Grupa 2,Dzial 1,Ramiro Thompson,000008/000062
+000063,Komentarz227,Grupa 1,Dzial 1,Orlando Delgado,000020/000063
+000064,Komentarz987,Grupa 1,Dzial 0,Rogelio Tucker,000002/000064
+000065,Komentarz749,Grupa 2,Dzial 1,Marta Clarke,000019/000065
+000066,Komentarz38,Grupa 1,Dzial 1,Ernestine Mathis ,000013/000066
+000067,Komentarz292,Grupa 2,Dzial 0,Cecelia Joseph,000009/000067
+000068,Komentarz977,Grupa 1,Dzial 1,Luther Ramsey ,000009/000068
+000069,Komentarz200,Grupa 2,Dzial 2,Christina Nguyen,000020/000069
+000070,Komentarz351,Grupa 0,Dzial 2,Al Welch ,000012/000070
+000071,Komentarz805,Grupa 1,Dzial 1,Elizabeth Conner,000018/000071
+000072,Komentarz574,Grupa 2,Dzial 3,Shawn Santos ,000013/000072
+000073,Komentarz484,Grupa 2,Dzial 1,Ramiro Thompson,000014/000073
+000074,Komentarz641,Grupa 1,Dzial 0,Alison Lyons,000012/000074
+000075,Komentarz795,Grupa 0,Dzial 2,Cora Moody ,000010/000075
+000076,Komentarz935,Grupa 1,Dzial 0,Alison Lyons,000019/000076
+000077,Komentarz721,Grupa 1,Dzial 3,Rex Casey ,000011/000077
+000078,Komentarz290,Grupa 2,Dzial 1,Ramiro Thompson,000023/000078
+000079,Komentarz931,Grupa 1,Dzial 1,Brett Swanson ,000021/000079
+000080,Komentarz905,Grupa 2,Dzial 2,Alberto Allison ,000005/000080
+000081,Komentarz521,Grupa 0,Dzial 3,Paulette Mcdaniel ,000022/000081
+000082,Komentarz990,Grupa 0,Dzial 2,Noah Barnes ,000019/000082
+000083,Komentarz697,Grupa 1,Dzial 1,Angelica Hale,000019/000083
+000084,Komentarz337,Grupa 0,Dzial 1,Frederick Mclaughlin,000002/000084
+000085,Komentarz707,Grupa 1,Dzial 0,Elsie Alvarez,000009/000085
+000086,Komentarz763,Grupa 2,Dzial 1,Alan Underwood ,000018/000086
+000087,Komentarz412,Grupa 0,Dzial 3,Naomi Shelton,000020/000087
+000088,Komentarz500,Grupa 1,Dzial 3,Rex Casey ,000015/000088
+000089,Komentarz252,Grupa 1,Dzial 1,Luther Ramsey ,000019/000089
+000090,Komentarz902,Grupa 0,Dzial 1,Frederick Mclaughlin,000011/000090
+000091,Komentarz167,Grupa 0,Dzial 1,Frederick Mclaughlin,000024/000091
+000092,Komentarz792,Grupa 1,Dzial 1,Angelica Hale,000010/000092
+000093,Komentarz528,Grupa 2,Dzial 2,Christina Nguyen,000017/000093
+000094,Komentarz524,Grupa 2,Dzial 1,Ramiro Thompson,000022/000094
+000095,Komentarz545,Grupa 0,Dzial 2,Nora Roberts,000014/000095
+000096,Komentarz520,Grupa 2,Dzial 2,Christina Nguyen,000011/000096
+000097,Komentarz788,Grupa 2,Dzial 0,Cecelia Joseph,000018/000097
+000098,Komentarz905,Grupa 0,Dzial 2,Noah Barnes ,000013/000098
+000099,Komentarz861,Grupa 0,Dzial 2,Allen Thompson,000016/000099
+000100,Komentarz315,Grupa 2,Dzial 3,Corey Mccormick ,000016/000100
+000101,Komentarz109,Grupa 0,Dzial 2,Allen Thompson,000014/000060/000101
+000102,Komentarz34,Grupa 1,Dzial 3,Rex Casey ,000022/000049/000102
+000103,Komentarz649,Grupa 1,Dzial 1,Luther Ramsey ,000009/000085/000103
+000104,Komentarz69,Grupa 0,Dzial 2,Jenna Dean,000009/000085/000104
+000105,Komentarz337,Grupa 1,Dzial 0,Rogelio Tucker,000006/000026/000105
+000106,Komentarz94,Grupa 1,Dzial 1,Luther Ramsey ,000004/000053/000106
+000107,Komentarz530,Grupa 2,Dzial 2,Guy Moran ,000012/000058/000107
+000108,Komentarz27,Grupa 0,Dzial 3,Paulette Mcdaniel ,000011/000096/000108
+000109,Komentarz637,Grupa 2,Dzial 1,Marta Clarke,000002/000061/000109
+000110,Komentarz632,Grupa 1,Dzial 1,Angelica Hale,000005/000030/000110
+000111,Komentarz69,Grupa 0,Dzial 2,Nora Roberts,000001/000033/000111
+000112,Komentarz354,Grupa 2,Dzial 3,Shawn Santos ,000006/000039/000112
+000113,Komentarz596,Grupa 1,Dzial 0,Rogelio Tucker,000008/000029/000113
+000114,Komentarz45,Grupa 0,Dzial 3,Naomi Shelton,000025/000051/000114
+000115,Komentarz647,Grupa 0,Dzial 2,Al Welch ,000009/000085/000115
+000116,Komentarz224,Grupa 2,Dzial 2,Alberto Allison ,000014/000027/000116
+000117,Komentarz86,Grupa 0,Dzial 3,Paulette Mcdaniel ,000010/000075/000117
+000118,Komentarz60,Grupa 2,Dzial 1,Alan Underwood ,000019/000035/000118
+000119,Komentarz709,Grupa 0,Dzial 3,Dennis Kelley ,000010/000034/000119
+000120,Komentarz992,Grupa 2,Dzial 2,Alberto Allison ,000005/000080/000120
+000121,Komentarz53,Grupa 1,Dzial 2,Tanya Bridges ,000010/000041/000121
+000122,Komentarz440,Grupa 0,Dzial 2,Noah Barnes ,000011/000057/000122
+000123,Komentarz243,Grupa 2,Dzial 1,Marta Clarke,000025/000059/000123
+000124,Komentarz377,Grupa 2,Dzial 1,Diana Pierce ,000009/000085/000124
+000125,Komentarz920,Grupa 1,Dzial 1,Elizabeth Conner,000017/000093/000125
+000126,Komentarz702,Grupa 2,Dzial 2,Christina Nguyen,000002/000061/000126
+000127,Komentarz960,Grupa 2,Dzial 2,Christina Nguyen,000011/000054/000127
+000128,Komentarz238,Grupa 1,Dzial 3,Rex Casey ,000018/000071/000128
+000129,Komentarz683,Grupa 2,Dzial 2,Guy Moran ,000010/000037/000129
+000130,Komentarz596,Grupa 1,Dzial 0,Elsie Alvarez,000010/000041/000130
+000131,Komentarz71,Grupa 0,Dzial 2,Nora Roberts,000012/000046/000131
+000132,Komentarz294,Grupa 2,Dzial 0,Cecelia Joseph,000014/000095/000132
+000133,Komentarz164,Grupa 1,Dzial 1,Ernestine Mathis ,000014/000060/000133
+000134,Komentarz351,Grupa 0,Dzial 2,Bernard Ellis ,000012/000074/000134
+000135,Komentarz471,Grupa 1,Dzial 1,Orlando Delgado,000019/000076/000135
+000136,Komentarz293,Grupa 0,Dzial 3,Dennis Kelley ,000011/000077/000136
+000137,Komentarz23,Grupa 0,Dzial 3,Janie Grant,000009/000047/000137
+000138,Komentarz780,Grupa 1,Dzial 1,Elizabeth Conner,000006/000026/000138
+000139,Komentarz211,Grupa 2,Dzial 0,Phil Briggs,000022/000081/000139
+000140,Komentarz265,Grupa 2,Dzial 3,Corey Mccormick ,000004/000053/000140
+000141,Komentarz866,Grupa 0,Dzial 3,Lorraine Cortez ,000021/000052/000141
+000142,Komentarz671,Grupa 2,Dzial 1,Alan Underwood ,000023/000078/000142
+000143,Komentarz449,Grupa 0,Dzial 2,Allen Thompson,000005/000080/000143
+000144,Komentarz461,Grupa 0,Dzial 2,Cora Moody ,000014/000027/000144
+000145,Komentarz97,Grupa 0,Dzial 3,Naomi Shelton,000025/000051/000145
+000146,Komentarz358,Grupa 2,Dzial 3,Corey Mccormick ,000020/000063/000146
+000147,Komentarz230,Grupa 1,Dzial 0,Elsie Alvarez,000005/000080/000147
+000148,Komentarz375,Grupa 0,Dzial 2,Allen Thompson,000009/000068/000148
+000149,Komentarz561,Grupa 1,Dzial 0,Alison Lyons,000012/000074/000149
+000150,Komentarz269,Grupa 1,Dzial 3,Izydor Patryk,000013/000098/000150
+000151,Komentarz127,Grupa 2,Dzial 1,Marta Clarke,000011/000054/000151
+000152,Komentarz685,Grupa 0,Dzial 3,Jose Gilbert ,000013/000066/000152
+000153,Komentarz256,Grupa 2,Dzial 0,Cecelia Joseph,000022/000094/000153
+000154,Komentarz106,Grupa 1,Dzial 3,Izydor Patryk,000005/000030/000154
+000155,Komentarz256,Grupa 1,Dzial 1,Orlando Delgado,000004/000031/000155
+000156,Komentarz195,Grupa 0,Dzial 1,Frederick Mclaughlin,000010/000075/000156
+000157,Komentarz578,Grupa 2,Dzial 0,Cecelia Joseph,000013/000066/000157
+000158,Komentarz858,Grupa 2,Dzial 1,Marta Clarke,000019/000082/000158
+000159,Komentarz224,Grupa 0,Dzial 2,Al Welch ,000020/000044/000159
+000160,Komentarz86,Grupa 2,Dzial 1,Marta Clarke,000020/000063/000160
+000161,Komentarz804,Grupa 2,Dzial 3,Shawn Santos ,000013/000072/000161
+000162,Komentarz209,Grupa 1,Dzial 3,Rex Casey ,000009/000067/000162
+000163,Komentarz138,Grupa 2,Dzial 3,Corey Mccormick ,000013/000066/000163
+000164,Komentarz395,Grupa 0,Dzial 3,Jose Gilbert ,000025/000040/000164
+000165,Komentarz36,Grupa 2,Dzial 3,Corey Mccormick ,000009/000047/000165
+000166,Komentarz325,Grupa 2,Dzial 1,Diana Pierce ,000020/000063/000166
+000167,Komentarz21,Grupa 2,Dzial 0,Cecelia Joseph,000004/000053/000167
+000168,Komentarz191,Grupa 0,Dzial 2,Cora Moody ,000017/000093/000168
+000169,Komentarz142,Grupa 0,Dzial 2,Jenna Dean,000022/000049/000169
+000170,Komentarz259,Grupa 0,Dzial 2,Allen Thompson,000021/000052/000170
+000171,Komentarz52,Grupa 0,Dzial 3,Naomi Shelton,000011/000090/000171
+000172,Komentarz823,Grupa 0,Dzial 3,Jose Gilbert ,000004/000053/000172
+000173,Komentarz544,Grupa 0,Dzial 3,Janie Grant,000005/000030/000173
+000174,Komentarz967,Grupa 2,Dzial 0,Cecelia Joseph,000002/000061/000174
+000175,Komentarz53,Grupa 0,Dzial 2,Nora Roberts,000011/000057/000175
+000176,Komentarz633,Grupa 0,Dzial 2,Al Welch ,000013/000098/000176
+000177,Komentarz622,Grupa 2,Dzial 2,Guy Moran ,000021/000079/000177
+000178,Komentarz719,Grupa 0,Dzial 2,Nora Roberts,000013/000048/000178
+000179,Komentarz429,Grupa 0,Dzial 2,Allen Thompson,000008/000029/000179
+000180,Komentarz200,Grupa 2,Dzial 1,Marta Clarke,000018/000086/000180
+000181,Komentarz501,Grupa 2,Dzial 2,Alberto Allison ,000009/000032/000181
+000182,Komentarz183,Grupa 1,Dzial 0,Alison Lyons,000019/000035/000182
+000183,Komentarz881,Grupa 1,Dzial 3,Izydor Patryk,000025/000051/000183
+000184,Komentarz755,Grupa 2,Dzial 1,Marta Clarke,000021/000079/000184
+000185,Komentarz691,Grupa 1,Dzial 3,Rex Casey ,000014/000060/000185
+000186,Komentarz229,Grupa 0,Dzial 2,Nora Roberts,000015/000088/000186
+000187,Komentarz190,Grupa 0,Dzial 2,Cora Moody ,000014/000095/000187
+000188,Komentarz422,Grupa 0,Dzial 3,Dennis Kelley ,000011/000077/000188
+000189,Komentarz868,Grupa 1,Dzial 0,Elsie Alvarez,000005/000080/000189
+000190,Komentarz550,Grupa 0,Dzial 3,Jose Gilbert ,000010/000092/000190
+000191,Komentarz857,Grupa 0,Dzial 3,Dennis Kelley ,000005/000030/000191
+000192,Komentarz470,Grupa 0,Dzial 2,Irene Sandoval,000019/000065/000192
+000193,Komentarz518,Grupa 2,Dzial 1,Ramiro Thompson,000012/000058/000193
+000194,Komentarz303,Grupa 2,Dzial 1,Diana Pierce ,000017/000093/000194
+000195,Komentarz583,Grupa 1,Dzial 1,Brett Swanson ,000012/000058/000195
+000196,Komentarz256,Grupa 0,Dzial 3,Salvador Reese ,000005/000080/000196
+000197,Komentarz789,Grupa 0,Dzial 2,Irene Sandoval,000010/000041/000197
+000198,Komentarz52,Grupa 1,Dzial 3,Izydor Patryk,000004/000053/000198
+000199,Komentarz52,Grupa 1,Dzial 0,Alison Lyons,000018/000071/000199
+000200,Komentarz169,Grupa 0,Dzial 3,Jose Gilbert ,000008/000062/000200
+000201,Komentarz830,Grupa 2,Dzial 1,Ramiro Thompson,000014/000060/000201
+000202,Komentarz91,Grupa 1,Dzial 2,Tanya Bridges ,000006/000026/000202
+000203,Komentarz343,Grupa 0,Dzial 2,Bernard Ellis ,000018/000071/000203
+000204,Komentarz647,Grupa 2,Dzial 1,Diana Pierce ,000010/000034/000204
+000205,Komentarz271,Grupa 1,Dzial 3,Rex Casey ,000018/000097/000205
+000206,Komentarz312,Grupa 0,Dzial 2,Cora Moody ,000022/000094/000206
+000207,Komentarz635,Grupa 2,Dzial 3,Shawn Santos ,000020/000087/000207
+000208,Komentarz349,Grupa 1,Dzial 3,Izydor Patryk,000004/000031/000208
+000209,Komentarz76,Grupa 0,Dzial 2,Al Welch ,000002/000064/000209
+000210,Komentarz457,Grupa 2,Dzial 1,Marta Clarke,000012/000046/000210
+000211,Komentarz998,Grupa 2,Dzial 2,Christina Nguyen,000016/000055/000211
+000212,Komentarz642,Grupa 1,Dzial 2,Tanya Bridges ,000002/000084/000212
+000213,Komentarz810,Grupa 1,Dzial 2,Tanya Bridges ,000004/000053/000213
+000214,Komentarz363,Grupa 2,Dzial 1,Alan Underwood ,000010/000041/000214
+000215,Komentarz493,Grupa 2,Dzial 3,Corey Mccormick ,000009/000085/000215
+000216,Komentarz378,Grupa 0,Dzial 2,Allen Thompson,000012/000046/000216
+000217,Komentarz31,Grupa 0,Dzial 3,Salvador Reese ,000013/000048/000217
+000218,Komentarz602,Grupa 1,Dzial 1,Ernestine Mathis ,000009/000032/000218
+000219,Komentarz565,Grupa 2,Dzial 3,Shawn Santos ,000015/000088/000219
+000220,Komentarz2,Grupa 1,Dzial 3,Rex Casey ,000014/000095/000220
+000221,Komentarz392,Grupa 1,Dzial 3,Izydor Patryk,000019/000083/000221
+000222,Komentarz340,Grupa 2,Dzial 1,Alan Underwood ,000020/000069/000222
+000223,Komentarz75,Grupa 1,Dzial 1,Angelica Hale,000014/000073/000223
+000224,Komentarz103,Grupa 0,Dzial 3,Salvador Reese ,000020/000087/000224
+000225,Komentarz960,Grupa 0,Dzial 2,Jenna Dean,000024/000091/000225
+000226,Komentarz901,Grupa 2,Dzial 0,Cecelia Joseph,000010/000075/000226
+000227,Komentarz388,Grupa 2,Dzial 3,Shawn Santos ,000011/000096/000227
+000228,Komentarz590,Grupa 0,Dzial 3,Dennis Kelley ,000020/000063/000228
+000229,Komentarz94,Grupa 1,Dzial 1,Orlando Delgado,000013/000072/000229
+000230,Komentarz324,Grupa 2,Dzial 2,Guy Moran ,000024/000091/000230
+000231,Komentarz317,Grupa 2,Dzial 2,Alberto Allison ,000022/000049/000231
+000232,Komentarz941,Grupa 2,Dzial 0,Cecelia Joseph,000012/000070/000232
+000233,Komentarz455,Grupa 0,Dzial 2,Noah Barnes ,000010/000034/000233
+000234,Komentarz603,Grupa 1,Dzial 1,Angelica Hale,000009/000068/000234
+000235,Komentarz298,Grupa 1,Dzial 1,Brett Swanson ,000015/000088/000235
+000236,Komentarz911,Grupa 0,Dzial 3,Naomi Shelton,000005/000080/000236
+000237,Komentarz951,Grupa 0,Dzial 2,Jenna Dean,000012/000058/000237
+000238,Komentarz802,Grupa 1,Dzial 1,Brett Swanson ,000018/000071/000238
+000239,Komentarz946,Grupa 2,Dzial 1,Roy Weaver ,000018/000097/000239
+000240,Komentarz251,Grupa 1,Dzial 1,Ernestine Mathis ,000008/000062/000240
+000241,Komentarz291,Grupa 0,Dzial 3,Naomi Shelton,000008/000029/000241
+000242,Komentarz132,Grupa 0,Dzial 2,Bernard Ellis ,000016/000100/000242
+000243,Komentarz920,Grupa 0,Dzial 3,Dennis Kelley ,000011/000077/000243
+000244,Komentarz645,Grupa 2,Dzial 1,Diana Pierce ,000009/000068/000244
+000245,Komentarz321,Grupa 2,Dzial 1,Ramiro Thompson,000019/000083/000245
+000246,Komentarz367,Grupa 1,Dzial 1,Luther Ramsey ,000013/000072/000246
+000247,Komentarz714,Grupa 0,Dzial 2,Cora Moody ,000011/000077/000247
+000248,Komentarz266,Grupa 0,Dzial 2,Irene Sandoval,000002/000061/000248
+000249,Komentarz109,Grupa 0,Dzial 2,Noah Barnes ,000022/000081/000249
+000250,Komentarz551,Grupa 0,Dzial 2,Jenna Dean,000012/000070/000250
+000251,Komentarz365,Grupa 1,Dzial 0,Rogelio Tucker,000019/000065/000251
+000252,Komentarz879,Grupa 0,Dzial 2,Allen Thompson,000019/000065/000252
+000253,Komentarz52,Grupa 2,Dzial 0,Cecelia Joseph,000006/000026/000253
+000254,Komentarz18,Grupa 0,Dzial 2,Jenna Dean,000024/000042/000254
+000255,Komentarz398,Grupa 0,Dzial 3,Lorraine Cortez ,000023/000078/000255
+000256,Komentarz393,Grupa 0,Dzial 2,Bernard Ellis ,000004/000053/000256
+000257,Komentarz500,Grupa 0,Dzial 2,Al Welch ,000019/000035/000257
+000258,Komentarz333,Grupa 2,Dzial 0,Phil Briggs,000019/000065/000258
+000259,Komentarz306,Grupa 1,Dzial 2,Tanya Bridges ,000021/000079/000259
+000260,Komentarz805,Grupa 0,Dzial 2,Bernard Ellis ,000014/000073/000260
+000261,Komentarz553,Grupa 0,Dzial 2,Allen Thompson,000009/000085/000261
+000262,Komentarz700,Grupa 2,Dzial 0,Cecelia Joseph,000012/000070/000262
+000263,Komentarz30,Grupa 0,Dzial 3,Naomi Shelton,000024/000042/000263
+000264,Komentarz913,Grupa 1,Dzial 1,Orlando Delgado,000021/000052/000264
+000265,Komentarz385,Grupa 0,Dzial 2,Al Welch ,000012/000058/000265
+000266,Komentarz821,Grupa 1,Dzial 3,Rex Casey ,000012/000074/000266
+000267,Komentarz439,Grupa 2,Dzial 1,Diana Pierce ,000025/000051/000267
+000268,Komentarz561,Grupa 0,Dzial 2,Cora Moody ,000025/000040/000268
+000269,Komentarz184,Grupa 0,Dzial 3,Lorraine Cortez ,000019/000083/000269
+000270,Komentarz461,Grupa 2,Dzial 1,Ramiro Thompson,000010/000037/000270
+000271,Komentarz969,Grupa 0,Dzial 2,Allen Thompson,000012/000058/000271
+000272,Komentarz281,Grupa 1,Dzial 3,Izydor Patryk,000005/000038/000272
+000273,Komentarz171,Grupa 1,Dzial 1,Brett Swanson ,000010/000075/000273
+000274,Komentarz536,Grupa 1,Dzial 0,Elsie Alvarez,000004/000031/000274
+000275,Komentarz947,Grupa 2,Dzial 3,Shawn Santos ,000019/000082/000275
+000276,Komentarz384,Grupa 0,Dzial 3,Paulette Mcdaniel ,000013/000048/000276
+000277,Komentarz936,Grupa 0,Dzial 3,Janie Grant,000009/000068/000277
+000278,Komentarz756,Grupa 0,Dzial 3,Naomi Shelton,000013/000098/000278
+000279,Komentarz760,Grupa 1,Dzial 1,Brett Swanson ,000014/000073/000279
+000280,Komentarz826,Grupa 2,Dzial 2,Christina Nguyen,000025/000040/000280
+000281,Komentarz291,Grupa 1,Dzial 0,Alison Lyons,000008/000029/000281
+000282,Komentarz870,Grupa 2,Dzial 3,Corey Mccormick ,000019/000083/000282
+000283,Komentarz574,Grupa 1,Dzial 1,Luther Ramsey ,000011/000028/000283
+000284,Komentarz461,Grupa 1,Dzial 3,Rex Casey ,000014/000073/000284
+000285,Komentarz218,Grupa 0,Dzial 2,Nora Roberts,000019/000082/000285
+000286,Komentarz682,Grupa 1,Dzial 3,Izydor Patryk,000018/000071/000286
+000287,Komentarz810,Grupa 1,Dzial 0,Rogelio Tucker,000005/000038/000287
+000288,Komentarz284,Grupa 1,Dzial 0,Rogelio Tucker,000009/000047/000288
+000289,Komentarz737,Grupa 1,Dzial 3,Rex Casey ,000019/000082/000289
+000290,Komentarz158,Grupa 0,Dzial 2,Nora Roberts,000006/000026/000290
+000291,Komentarz89,Grupa 0,Dzial 2,Nora Roberts,000011/000077/000291
+000292,Komentarz614,Grupa 1,Dzial 0,Elsie Alvarez,000025/000040/000292
+000293,Komentarz765,Grupa 2,Dzial 2,Guy Moran ,000009/000032/000293
+000294,Komentarz742,Grupa 0,Dzial 2,Noah Barnes ,000010/000037/000294
+000295,Komentarz480,Grupa 1,Dzial 0,Rogelio Tucker,000020/000044/000295
+000296,Komentarz798,Grupa 1,Dzial 3,Rex Casey ,000010/000075/000296
+000297,Komentarz988,Grupa 0,Dzial 3,Dennis Kelley ,000017/000093/000297
+000298,Komentarz72,Grupa 2,Dzial 3,Shawn Santos ,000005/000080/000298
+000299,Komentarz980,Grupa 0,Dzial 2,Cora Moody ,000016/000099/000299
+000300,Komentarz3,Grupa 1,Dzial 1,Orlando Delgado,000014/000073/000300
+000301,Komentarz106,Grupa 0,Dzial 2,Allen Thompson,000002/000050/000301
+000302,Komentarz617,Grupa 0,Dzial 2,Cora Moody ,000010/000037/000302
+000303,Komentarz458,Grupa 2,Dzial 1,Marta Clarke,000009/000047/000303
+000304,Komentarz385,Grupa 1,Dzial 2,Tanya Bridges ,000004/000053/000304
+000305,Komentarz316,Grupa 1,Dzial 0,Elsie Alvarez,000019/000082/000305
+000306,Komentarz229,Grupa 1,Dzial 1,Ernestine Mathis ,000019/000035/000306
+000307,Komentarz830,Grupa 0,Dzial 3,Janie Grant,000002/000050/000307
+000308,Komentarz37,Grupa 0,Dzial 2,Noah Barnes ,000011/000028/000308
+000309,Komentarz488,Grupa 0,Dzial 2,Al Welch ,000004/000036/000309
+000310,Komentarz322,Grupa 2,Dzial 0,Phil Briggs,000011/000096/000310
+000311,Komentarz151,Grupa 0,Dzial 2,Irene Sandoval,000010/000075/000311
+000312,Komentarz4,Grupa 2,Dzial 1,Roy Weaver ,000012/000074/000312
+000313,Komentarz483,Grupa 0,Dzial 3,Dennis Kelley ,000011/000077/000313
+000314,Komentarz885,Grupa 2,Dzial 1,Marta Clarke,000011/000054/000314
+000315,Komentarz712,Grupa 0,Dzial 3,Paulette Mcdaniel ,000005/000030/000315
+000316,Komentarz460,Grupa 1,Dzial 0,Elsie Alvarez,000010/000041/000316
+000317,Komentarz488,Grupa 0,Dzial 1,Frederick Mclaughlin,000025/000059/000317
+000318,Komentarz354,Grupa 1,Dzial 1,Ernestine Mathis ,000005/000038/000318
+000319,Komentarz295,Grupa 2,Dzial 1,Ramiro Thompson,000010/000092/000319
+000320,Komentarz720,Grupa 0,Dzial 2,Allen Thompson,000010/000075/000320
+000321,Komentarz574,Grupa 0,Dzial 2,Nora Roberts,000011/000096/000321
+000322,Komentarz167,Grupa 1,Dzial 3,Rex Casey ,000009/000085/000322
+000323,Komentarz954,Grupa 2,Dzial 1,Roy Weaver ,000010/000075/000323
+000324,Komentarz423,Grupa 2,Dzial 0,Phil Briggs,000002/000050/000324
+000325,Komentarz402,Grupa 1,Dzial 1,Elizabeth Conner,000017/000093/000325
+000326,Komentarz9,Grupa 2,Dzial 2,Christina Nguyen,000010/000075/000320/000326
+000327,Komentarz884,Grupa 1,Dzial 1,Orlando Delgado,000014/000027/000116/000327
+000328,Komentarz5,Grupa 0,Dzial 2,Cora Moody ,000004/000031/000155/000328
+000329,Komentarz400,Grupa 1,Dzial 0,Rogelio Tucker,000020/000063/000160/000329
+000330,Komentarz916,Grupa 2,Dzial 1,Marta Clarke,000008/000029/000281/000330
+000331,Komentarz442,Grupa 0,Dzial 3,Janie Grant,000012/000074/000149/000331
+000332,Komentarz719,Grupa 2,Dzial 1,Marta Clarke,000021/000079/000184/000332
+000333,Komentarz317,Grupa 1,Dzial 1,Luther Ramsey ,000010/000034/000204/000333
+000334,Komentarz62,Grupa 1,Dzial 1,Elizabeth Conner,000009/000085/000115/000334
+000335,Komentarz395,Grupa 2,Dzial 3,Shawn Santos ,000019/000035/000118/000335
+000336,Komentarz506,Grupa 0,Dzial 2,Jenna Dean,000010/000092/000319/000336
+000337,Komentarz94,Grupa 1,Dzial 3,Rex Casey ,000013/000098/000150/000337
+000338,Komentarz772,Grupa 0,Dzial 2,Allen Thompson,000013/000072/000229/000338
+000339,Komentarz323,Grupa 0,Dzial 1,Frederick Mclaughlin,000004/000031/000274/000339
+000340,Komentarz547,Grupa 2,Dzial 1,Ramiro Thompson,000020/000063/000160/000340
+000341,Komentarz882,Grupa 1,Dzial 2,Tanya Bridges ,000009/000047/000165/000341
+000342,Komentarz162,Grupa 2,Dzial 2,Christina Nguyen,000009/000085/000103/000342
+000343,Komentarz871,Grupa 1,Dzial 0,Alison Lyons,000006/000026/000138/000343
+000344,Komentarz975,Grupa 0,Dzial 3,Jose Gilbert ,000011/000077/000243/000344
+000345,Komentarz283,Grupa 2,Dzial 2,Alberto Allison ,000019/000083/000245/000345
+000346,Komentarz622,Grupa 2,Dzial 1,Roy Weaver ,000010/000034/000233/000346
+000347,Komentarz995,Grupa 1,Dzial 2,Tanya Bridges ,000014/000060/000133/000347
+000348,Komentarz284,Grupa 2,Dzial 1,Marta Clarke,000014/000073/000279/000348
+000349,Komentarz232,Grupa 1,Dzial 1,Luther Ramsey ,000021/000052/000264/000349
+000350,Komentarz596,Grupa 2,Dzial 1,Roy Weaver ,000019/000076/000135/000350
+000351,Komentarz141,Grupa 2,Dzial 1,Marta Clarke,000009/000032/000293/000351
+000352,Komentarz109,Grupa 1,Dzial 2,Tanya Bridges ,000010/000041/000214/000352
+000353,Komentarz845,Grupa 2,Dzial 1,Diana Pierce ,000011/000077/000247/000353
+000354,Komentarz458,Grupa 1,Dzial 3,Rex Casey ,000005/000038/000272/000354
+000355,Komentarz187,Grupa 1,Dzial 1,Elizabeth Conner,000012/000046/000210/000355
+000356,Komentarz177,Grupa 0,Dzial 2,Irene Sandoval,851968/000016/000100/000356
+000357,Komentarz528,Grupa 0,Dzial 3,Salvador Reese ,000018/000097/000205/000357
+000358,Komentarz61,Grupa 2,Dzial 1,Alan Underwood ,000013/000066/000157/000358
+000359,Komentarz992,Grupa 1,Dzial 0,Elsie Alvarez,000009/000047/000165/000359
+000360,Komentarz476,Grupa 1,Dzial 3,Izydor Patryk,000011/000077/000291/000360
+000361,Komentarz989,Grupa 1,Dzial 0,Alison Lyons,000018/000097/000205/000361
+000362,Komentarz145,Grupa 0,Dzial 3,Dennis Kelley ,000010/000075/000117/000362
+000363,Komentarz810,Grupa 0,Dzial 2,Nora Roberts,000012/000070/000250/000363
+000364,Komentarz347,Grupa 0,Dzial 1,Frederick Mclaughlin,000010/000037/000302/000364
+000365,Komentarz953,Grupa 0,Dzial 2,Allen Thompson,000019/000082/000275/000365
+000366,Komentarz124,Grupa 1,Dzial 1,Elizabeth Conner,000015/000088/000235/000366
+000367,Komentarz302,Grupa 0,Dzial 2,Bernard Ellis ,000001/000033/000111/000367
+000368,Komentarz51,Grupa 0,Dzial 2,Allen Thompson,000021/000052/000264/000368
+000369,Komentarz410,Grupa 0,Dzial 2,Irene Sandoval,000004/000053/000140/000369
+000370,Komentarz491,Grupa 2,Dzial 1,Alan Underwood ,000010/000041/000130/000370
+000371,Komentarz409,Grupa 0,Dzial 2,Jenna Dean,000016/000099/000299/000371
+000372,Komentarz858,Grupa 0,Dzial 3,Salvador Reese ,000009/000068/000234/000372
+000373,Komentarz484,Grupa 0,Dzial 3,Jose Gilbert ,000019/000065/000251/000373
+000374,Komentarz66,Grupa 0,Dzial 1,Frederick Mclaughlin,000002/000061/000248/000374
+000375,Komentarz439,Grupa 0,Dzial 3,Paulette Mcdaniel ,000002/000061/000174/000375
+000376,Komentarz683,Grupa 0,Dzial 2,Irene Sandoval,000009/000068/000244/000376
+000377,Komentarz60,Grupa 0,Dzial 3,Salvador Reese ,000005/000030/000173/000377
+000378,Komentarz175,Grupa 1,Dzial 3,Izydor Patryk,000012/000058/000237/000378
+000379,Komentarz711,Grupa 1,Dzial 0,Alison Lyons,000013/000098/000176/000379
+000380,Komentarz645,Grupa 2,Dzial 1,Alan Underwood ,000019/000035/000118/000380
+000381,Komentarz352,Grupa 2,Dzial 1,Marta Clarke,000025/000040/000292/000381
+000382,Komentarz735,Grupa 1,Dzial 0,Elsie Alvarez,000019/000065/000192/000382
+000383,Komentarz797,Grupa 1,Dzial 1,Elizabeth Conner,000006/000039/000112/000383
+000384,Komentarz163,Grupa 2,Dzial 2,Guy Moran ,000019/000065/000258/000384
+000385,Komentarz453,Grupa 1,Dzial 0,Elsie Alvarez,000010/000041/000197/000385
+000386,Komentarz54,Grupa 0,Dzial 2,Nora Roberts,000014/000027/000116/000386
+000387,Komentarz5,Grupa 2,Dzial 3,Shawn Santos ,000011/000077/000247/000387
+000388,Komentarz52,Grupa 1,Dzial 1,Angelica Hale,000014/000060/000133/000388
+000389,Komentarz46,Grupa 1,Dzial 1,Angelica Hale,000011/000077/000247/000389
+000390,Komentarz690,Grupa 1,Dzial 1,Ernestine Mathis ,000021/000079/000184/000390
+000391,Komentarz557,Grupa 2,Dzial 1,Roy Weaver ,000021/000079/000184/000391
+000392,Komentarz156,Grupa 0,Dzial 3,Salvador Reese ,000017/000093/000125/000392
+000393,Komentarz122,Grupa 0,Dzial 3,Jose Gilbert ,000009/000032/000181/000393
+000394,Komentarz87,Grupa 1,Dzial 3,Izydor Patryk,000011/000096/000321/000394
+000395,Komentarz602,Grupa 2,Dzial 2,Alberto Allison ,000009/000085/000322/000395
+000396,Komentarz833,Grupa 0,Dzial 2,Noah Barnes ,000019/000082/000289/000396
+000397,Komentarz382,Grupa 1,Dzial 0,Rogelio Tucker,000004/000031/000208/000397
+000398,Komentarz595,Grupa 0,Dzial 2,Cora Moody ,000016/000055/000211/000398
+000399,Komentarz393,Grupa 0,Dzial 2,Allen Thompson,000016/000100/000242/000399
+000400,Komentarz966,Grupa 0,Dzial 2,Nora Roberts,000019/000065/000252/000400
+000401,Komentarz94,Grupa 1,Dzial 1,Brett Swanson ,000025/000059/000317/000401
+000402,Komentarz179,Grupa 1,Dzial 3,Izydor Patryk,000004/000031/000155/000402
+000403,Komentarz839,Grupa 0,Dzial 3,Paulette Mcdaniel ,000022/000081/000249/000403
+000404,Komentarz377,Grupa 2,Dzial 1,Ramiro Thompson,000019/000083/000245/000404
+000405,Komentarz663,Grupa 0,Dzial 3,Lorraine Cortez ,000009/000085/000322/000405
+000406,Komentarz827,Grupa 2,Dzial 3,Shawn Santos ,000008/000029/000179/000406
+000407,Komentarz305,Grupa 1,Dzial 1,Orlando Delgado,000006/000026/000253/000407
+000408,Komentarz304,Grupa 1,Dzial 3,Rex Casey ,000013/000066/000163/000408
+000409,Komentarz183,Grupa 2,Dzial 2,Guy Moran ,000014/000073/000279/000409
+000410,Komentarz337,Grupa 2,Dzial 3,Corey Mccormick ,000013/000066/000163/000410
+000411,Komentarz308,Grupa 0,Dzial 2,Cora Moody ,000010/000037/000302/000411
+000412,Komentarz951,Grupa 0,Dzial 3,Dennis Kelley ,000013/000072/000229/000412
+000413,Komentarz682,Grupa 1,Dzial 1,Angelica Hale,000004/000053/000304/000413
+000414,Komentarz562,Grupa 2,Dzial 0,Cecelia Joseph,000005/000030/000315/000414
+000415,Komentarz781,Grupa 2,Dzial 1,Roy Weaver ,000006/000026/000202/000415
+000416,Komentarz59,Grupa 2,Dzial 0,Cecelia Joseph,000004/000053/000198/000416
+000417,Komentarz765,Grupa 1,Dzial 0,Rogelio Tucker,000005/000030/000191/000417
+000418,Komentarz282,Grupa 2,Dzial 1,Ramiro Thompson,000001/000033/000111/000418
+000419,Komentarz160,Grupa 0,Dzial 1,Frederick Mclaughlin,000018/000071/000238/000419
+000420,Komentarz761,Grupa 2,Dzial 1,Diana Pierce ,000019/000083/000221/000420
+000421,Komentarz94,Grupa 2,Dzial 1,Roy Weaver ,000023/000078/000255/000421
+000422,Komentarz223,Grupa 1,Dzial 1,Orlando Delgado,000009/000047/000288/000422
+000423,Komentarz564,Grupa 2,Dzial 1,Marta Clarke,000015/000088/000235/000423
+000424,Komentarz454,Grupa 0,Dzial 3,Paulette Mcdaniel ,000008/000029/000179/000424
+000425,Komentarz169,Grupa 1,Dzial 0,Alison Lyons,000005/000030/000110/000425
+000426,Komentarz302,Grupa 1,Dzial 1,Luther Ramsey ,000012/000070/000250/000426
+000427,Komentarz36,Grupa 1,Dzial 1,Ernestine Mathis ,000019/000083/000282/000427
+000428,Komentarz119,Grupa 1,Dzial 0,Elsie Alvarez,000017/000093/000297/000428
+000429,Komentarz740,Grupa 0,Dzial 3,Jose Gilbert ,000022/000081/000249/000429
+000430,Komentarz803,Grupa 2,Dzial 0,Phil Briggs,000013/000098/000176/000430
+000431,Komentarz958,Grupa 0,Dzial 2,Bernard Ellis ,000014/000060/000185/000431
+000432,Komentarz425,Grupa 1,Dzial 3,Izydor Patryk,000010/000037/000294/000432
+000433,Komentarz283,Grupa 2,Dzial 1,Diana Pierce ,000022/000049/000169/000433
+000434,Komentarz396,Grupa 0,Dzial 3,Jose Gilbert ,000017/000093/000194/000434
+000435,Komentarz599,Grupa 0,Dzial 3,Dennis Kelley ,000025/000051/000267/000435
+000436,Komentarz282,Grupa 0,Dzial 2,Allen Thompson,000010/000034/000204/000436
+000437,Komentarz19,Grupa 0,Dzial 3,Dennis Kelley ,000025/000059/000317/000437
+000438,Komentarz6,Grupa 0,Dzial 2,Al Welch ,000006/000039/000112/000438
+000439,Komentarz524,Grupa 1,Dzial 3,Rex Casey ,000012/000058/000271/000439
+000440,Komentarz782,Grupa 1,Dzial 0,Elsie Alvarez,000012/000058/000237/000440
+000441,Komentarz554,Grupa 2,Dzial 1,Ramiro Thompson,000017/000093/000194/000441
+000442,Komentarz669,Grupa 0,Dzial 3,Salvador Reese ,000004/000031/000208/000442
+000443,Komentarz306,Grupa 0,Dzial 2,Noah Barnes ,000021/000079/000184/000443
+000444,Komentarz146,Grupa 0,Dzial 3,Paulette Mcdaniel ,000006/000039/000112/000444
+000445,Komentarz124,Grupa 2,Dzial 2,Guy Moran ,000018/000086/000180/000445
+000446,Komentarz407,Grupa 0,Dzial 3,Lorraine Cortez ,000009/000085/000104/000446
+000447,Komentarz78,Grupa 0,Dzial 3,Salvador Reese ,000014/000027/000116/000447
+000448,Komentarz971,Grupa 0,Dzial 2,Noah Barnes ,000019/000083/000269/000448
+000449,Komentarz383,Grupa 2,Dzial 3,Corey Mccormick ,000012/000070/000250/000449
+000450,Komentarz936,Grupa 0,Dzial 3,Naomi Shelton,000009/000047/000288/000450
+000451,Komentarz404,Grupa 0,Dzial 2,Irene Sandoval,000014/000060/000185/000451
+000452,Komentarz942,Grupa 0,Dzial 3,Dennis Kelley ,000013/000098/000150/000452
+000453,Komentarz503,Grupa 1,Dzial 0,Alison Lyons,000011/000096/000310/000453
+000454,Komentarz454,Grupa 0,Dzial 3,Lorraine Cortez ,000012/000046/000216/000454
+000455,Komentarz763,Grupa 1,Dzial 3,Izydor Patryk,000004/000031/000155/000455
+000456,Komentarz80,Grupa 0,Dzial 3,Dennis Kelley ,000018/000097/000239/000456
+000457,Komentarz497,Grupa 0,Dzial 2,Jenna Dean,000011/000057/000175/000457
+000458,Komentarz582,Grupa 2,Dzial 1,Alan Underwood ,000009/000085/000322/000458
+000459,Komentarz862,Grupa 0,Dzial 3,Janie Grant,000006/000039/000112/000459
+000460,Komentarz383,Grupa 1,Dzial 3,Rex Casey ,000019/000035/000257/000460
+000461,Komentarz859,Grupa 1,Dzial 1,Luther Ramsey ,000014/000060/000133/000461
+000462,Komentarz540,Grupa 1,Dzial 0,Alison Lyons,000013/000072/000161/000462
+000463,Komentarz212,Grupa 1,Dzial 3,Izydor Patryk,000020/000063/000166/000463
+000464,Komentarz142,Grupa 2,Dzial 1,Alan Underwood ,000013/000098/000176/000464
+000465,Komentarz113,Grupa 0,Dzial 3,Jose Gilbert ,000011/000096/000108/000465
+000466,Komentarz934,Grupa 2,Dzial 1,Ramiro Thompson,000005/000030/000154/000466
+000467,Komentarz440,Grupa 0,Dzial 3,Dennis Kelley ,000010/000092/000190/000467
+000468,Komentarz52,Grupa 1,Dzial 2,Tanya Bridges ,000021/000052/000264/000468
+000469,Komentarz457,Grupa 1,Dzial 1,Luther Ramsey ,000013/000098/000278/000469
+000470,Komentarz929,Grupa 0,Dzial 2,Allen Thompson,000019/000083/000221/000470
+000471,Komentarz544,Grupa 0,Dzial 2,Jenna Dean,000022/000049/000231/000471
+000472,Komentarz293,Grupa 0,Dzial 2,Allen Thompson,000017/000093/000168/000472
+000473,Komentarz7,Grupa 0,Dzial 2,Allen Thompson,000014/000060/000185/000473
+000474,Komentarz729,Grupa 0,Dzial 3,Dennis Kelley ,000025/000040/000280/000474
+000475,Komentarz225,Grupa 0,Dzial 3,Janie Grant,000010/000075/000273/000475
+000476,Komentarz406,Grupa 1,Dzial 1,Elizabeth Conner,000020/000087/000207/000476
+000477,Komentarz280,Grupa 0,Dzial 3,Lorraine Cortez ,000013/000072/000246/000477
+000478,Komentarz292,Grupa 1,Dzial 1,Brett Swanson ,000018/000097/000205/000478
+000479,Komentarz208,Grupa 1,Dzial 0,Alison Lyons,000014/000060/000201/000479
+000480,Komentarz76,Grupa 2,Dzial 1,Alan Underwood ,000004/000053/000256/000480
+000481,Komentarz442,Grupa 0,Dzial 3,Dennis Kelley ,000019/000065/000252/000481
+000482,Komentarz575,Grupa 0,Dzial 2,Bernard Ellis ,000004/000053/000106/000482
+000483,Komentarz490,Grupa 2,Dzial 1,Ramiro Thompson,000002/000084/000212/000483
+000484,Komentarz308,Grupa 1,Dzial 0,Alison Lyons,000009/000032/000218/000484
+000485,Komentarz409,Grupa 2,Dzial 0,Phil Briggs,000020/000063/000228/000485
+000486,Komentarz710,Grupa 1,Dzial 1,Brett Swanson ,000011/000077/000243/000486
+000487,Komentarz675,Grupa 0,Dzial 3,Janie Grant,000012/000074/000149/000487
+000488,Komentarz443,Grupa 0,Dzial 2,Allen Thompson,000013/000066/000152/000488
+000489,Komentarz474,Grupa 2,Dzial 2,Christina Nguyen,000010/000041/000316/000489
+000490,Komentarz487,Grupa 1,Dzial 0,Alison Lyons,000014/000060/000201/000490
+000491,Komentarz834,Grupa 0,Dzial 2,Noah Barnes ,000010/000075/000323/000491
+000492,Komentarz567,Grupa 1,Dzial 1,Angelica Hale,000011/000096/000321/000492
+000493,Komentarz643,Grupa 0,Dzial 3,Jose Gilbert ,000004/000053/000106/000493
+000494,Komentarz366,Grupa 2,Dzial 0,Phil Briggs,000009/000032/000218/000494
+000495,Komentarz138,Grupa 2,Dzial 1,Roy Weaver ,000020/000063/000166/000495
+000496,Komentarz756,Grupa 0,Dzial 1,Frederick Mclaughlin,000012/000058/000195/000496
+000497,Komentarz184,Grupa 1,Dzial 1,Orlando Delgado,000010/000075/000296/000497
+000498,Komentarz890,Grupa 0,Dzial 3,Jose Gilbert ,000016/000055/000211/000498
+000499,Komentarz882,Grupa 1,Dzial 3,Izydor Patryk,000019/000082/000305/000499
+000500,Komentarz327,Grupa 1,Dzial 0,Rogelio Tucker,000004/000053/000213/000500
+000501,Komentarz807,Grupa 0,Dzial 2,Noah Barnes ,000009/000047/000288/000501
+000502,Komentarz157,Grupa 0,Dzial 2,Al Welch ,000005/000030/000191/000502
+000503,Komentarz885,Grupa 2,Dzial 2,Christina Nguyen,000001/000033/000111/000503
+000504,Komentarz13,Grupa 2,Dzial 0,Phil Briggs,000006/000039/000112/000504
+000505,Komentarz676,Grupa 0,Dzial 3,Paulette Mcdaniel ,000002/000061/000109/000505
+000506,Komentarz79,Grupa 0,Dzial 3,Salvador Reese ,000009/000085/000103/000506
+000507,Komentarz513,Grupa 2,Dzial 1,Roy Weaver ,000002/000050/000324/000507
+000508,Komentarz675,Grupa 1,Dzial 1,Ernestine Mathis ,000013/000066/000157/000508
+000509,Komentarz284,Grupa 0,Dzial 2,Irene Sandoval,000014/000073/000300/000509
+000510,Komentarz315,Grupa 0,Dzial 3,Salvador Reese ,000019/000083/000282/000510
+000511,Komentarz155,Grupa 0,Dzial 3,Paulette Mcdaniel ,000010/000037/000294/000511
+000512,Komentarz318,Grupa 2,Dzial 0,Phil Briggs,000005/000030/000315/000512
+000513,Komentarz309,Grupa 2,Dzial 1,Roy Weaver ,000014/000073/000300/000513
+000514,Komentarz527,Grupa 0,Dzial 3,Naomi Shelton,000012/000058/000271/000514
+000515,Komentarz632,Grupa 0,Dzial 1,Frederick Mclaughlin,000005/000038/000318/000515
+000516,Komentarz803,Grupa 2,Dzial 2,Christina Nguyen,000011/000077/000291/000516
+000517,Komentarz947,Grupa 2,Dzial 2,Guy Moran ,000011/000057/000175/000517
+000518,Komentarz783,Grupa 2,Dzial 2,Alberto Allison ,000021/000079/000177/000518
+000519,Komentarz749,Grupa 2,Dzial 2,Christina Nguyen,000011/000077/000136/000519
+000520,Komentarz256,Grupa 0,Dzial 1,Frederick Mclaughlin,000005/000030/000154/000520
+000521,Komentarz236,Grupa 2,Dzial 0,Cecelia Joseph,000015/000088/000186/000521
+000522,Komentarz345,Grupa 2,Dzial 1,Roy Weaver ,000013/000072/000246/000522
+000523,Komentarz702,Grupa 2,Dzial 2,Guy Moran ,000002/000050/000301/000523
+000524,Komentarz849,Grupa 0,Dzial 3,Paulette Mcdaniel ,000009/000068/000277/000524
+000525,Komentarz460,Grupa 1,Dzial 0,Rogelio Tucker,000005/000080/000189/000525
+000526,Komentarz841,Grupa 0,Dzial 3,Janie Grant,000022/000094/000153/000526
+000527,Komentarz26,Grupa 0,Dzial 1,Frederick Mclaughlin,000019/000083/000245/000527
+000528,Komentarz746,Grupa 2,Dzial 1,Alan Underwood ,000006/000026/000138/000528
+000529,Komentarz632,Grupa 2,Dzial 3,Shawn Santos ,000013/000066/000163/000529
+000530,Komentarz286,Grupa 0,Dzial 3,Dennis Kelley ,000005/000038/000272/000530
+000531,Komentarz140,Grupa 0,Dzial 3,Paulette Mcdaniel ,000020/000087/000224/000531
+000532,Komentarz818,Grupa 1,Dzial 1,Orlando Delgado,000010/000034/000204/000532
+000533,Komentarz742,Grupa 2,Dzial 1,Diana Pierce ,000019/000082/000305/000533
+000534,Komentarz483,Grupa 2,Dzial 3,Shawn Santos ,000014/000060/000133/000534
+000535,Komentarz531,Grupa 1,Dzial 0,Alison Lyons,000008/000062/000200/000535
+000536,Komentarz117,Grupa 2,Dzial 0,Phil Briggs,000022/000081/000139/000536
+000537,Komentarz930,Grupa 2,Dzial 1,Ramiro Thompson,000012/000070/000232/000537
+000538,Komentarz509,Grupa 1,Dzial 1,Luther Ramsey ,000014/000073/000260/000538
+000539,Komentarz690,Grupa 2,Dzial 2,Alberto Allison ,000002/000061/000174/000539
+000540,Komentarz129,Grupa 0,Dzial 3,Lorraine Cortez ,000021/000079/000177/000540
+000541,Komentarz506,Grupa 1,Dzial 1,Ernestine Mathis ,000011/000077/000136/000541
+000542,Komentarz266,Grupa 1,Dzial 1,Luther Ramsey ,000009/000047/000303/000542
+000543,Komentarz903,Grupa 2,Dzial 3,Corey Mccormick ,000021/000052/000170/000543
+000544,Komentarz641,Grupa 0,Dzial 2,Allen Thompson,000012/000074/000149/000544
+000545,Komentarz354,Grupa 0,Dzial 2,Noah Barnes ,000011/000096/000108/000545
+000546,Komentarz583,Grupa 2,Dzial 1,Alan Underwood ,000020/000063/000160/000546
+000547,Komentarz119,Grupa 1,Dzial 2,Tanya Bridges ,000021/000079/000177/000547
+000548,Komentarz836,Grupa 0,Dzial 2,Bernard Ellis ,000019/000076/000135/000548
+000549,Komentarz719,Grupa 1,Dzial 1,Luther Ramsey ,000006/000026/000253/000549
+000550,Komentarz233,Grupa 0,Dzial 3,Janie Grant,000011/000054/000151/000550
+000551,Komentarz271,Grupa 1,Dzial 3,Rex Casey ,000013/000048/000178/000551
+000552,Komentarz925,Grupa 2,Dzial 1,Roy Weaver ,000004/000053/000256/000552
+000553,Komentarz151,Grupa 2,Dzial 1,Diana Pierce ,000025/000051/000114/000553
+000554,Komentarz948,Grupa 2,Dzial 1,Diana Pierce ,000024/000042/000263/000554
+000555,Komentarz452,Grupa 0,Dzial 3,Janie Grant,000005/000030/000110/000555
+000556,Komentarz403,Grupa 0,Dzial 1,Frederick Mclaughlin,000009/000068/000277/000556
+000557,Komentarz910,Grupa 0,Dzial 1,Frederick Mclaughlin,000013/000048/000178/000557
+000558,Komentarz294,Grupa 1,Dzial 2,Tanya Bridges ,000002/000050/000324/000558
+000559,Komentarz322,Grupa 2,Dzial 1,Marta Clarke,000010/000075/000323/000559
+000560,Komentarz754,Grupa 0,Dzial 3,Dennis Kelley ,000018/000097/000239/000560
+000561,Komentarz58,Grupa 2,Dzial 3,Corey Mccormick ,000014/000073/000260/000561
+000562,Komentarz451,Grupa 2,Dzial 1,Alan Underwood ,000011/000096/000227/000562
+000563,Komentarz968,Grupa 0,Dzial 2,Cora Moody ,000009/000068/000234/000563
+000564,Komentarz935,Grupa 2,Dzial 0,Phil Briggs,000004/000036/000309/000564
+000565,Komentarz94,Grupa 0,Dzial 2,Bernard Ellis ,000004/000031/000208/000565
+000566,Komentarz465,Grupa 2,Dzial 0,Phil Briggs,000013/000072/000161/000566
+000567,Komentarz233,Grupa 1,Dzial 1,Ernestine Mathis ,000010/000092/000190/000567
+000568,Komentarz319,Grupa 0,Dzial 3,Naomi Shelton,000008/000062/000200/000568
+000569,Komentarz138,Grupa 1,Dzial 1,Luther Ramsey ,000010/000037/000270/000569
+000570,Komentarz117,Grupa 0,Dzial 3,Naomi Shelton,000002/000061/000109/000570
+000571,Komentarz508,Grupa 1,Dzial 0,Rogelio Tucker,000001/000033/000111/000571
+000572,Komentarz944,Grupa 2,Dzial 0,Cecelia Joseph,000019/000076/000135/000572
+000573,Komentarz544,Grupa 0,Dzial 2,Al Welch ,000011/000028/000308/000573
+000574,Komentarz707,Grupa 1,Dzial 2,Tanya Bridges ,000013/000066/000157/000574
+000575,Komentarz204,Grupa 1,Dzial 1,Luther Ramsey ,000008/000029/000179/000575
+000576,Komentarz453,Grupa 1,Dzial 3,Izydor Patryk,000011/000077/000136/000576
+000577,Komentarz711,Grupa 1,Dzial 0,Elsie Alvarez,000010/000075/000311/000577
+000578,Komentarz305,Grupa 2,Dzial 2,Alberto Allison ,000001/000033/000111/000578
+000579,Komentarz167,Grupa 0,Dzial 3,Salvador Reese ,000020/000044/000159/000579
+000580,Komentarz349,Grupa 2,Dzial 3,Corey Mccormick ,000011/000054/000151/000580
+000581,Komentarz860,Grupa 1,Dzial 2,Tanya Bridges ,000019/000035/000257/000581
+000582,Komentarz387,Grupa 0,Dzial 2,Al Welch ,000008/000029/000113/000582
+000583,Komentarz226,Grupa 0,Dzial 2,Noah Barnes ,000023/000078/000255/000583
+000584,Komentarz396,Grupa 2,Dzial 0,Cecelia Joseph,000004/000053/000304/000584
+000585,Komentarz819,Grupa 0,Dzial 3,Janie Grant,000010/000034/000119/000585
+000586,Komentarz856,Grupa 2,Dzial 2,Guy Moran ,000014/000073/000223/000586
+000587,Komentarz834,Grupa 1,Dzial 3,Rex Casey ,000010/000075/000117/000587
+000588,Komentarz175,Grupa 1,Dzial 1,Angelica Hale,000019/000065/000252/000588
+000589,Komentarz897,Grupa 2,Dzial 3,Corey Mccormick ,000019/000065/000258/000589
+000590,Komentarz747,Grupa 1,Dzial 1,Orlando Delgado,000011/000054/000314/000590
+000591,Komentarz316,Grupa 2,Dzial 3,Shawn Santos ,000004/000031/000155/000591
+000592,Komentarz491,Grupa 1,Dzial 2,Tanya Bridges ,000010/000041/000121/000592
+000593,Komentarz364,Grupa 0,Dzial 2,Bernard Ellis ,000020/000063/000160/000593
+000594,Komentarz945,Grupa 2,Dzial 1,Diana Pierce ,000014/000095/000187/000594
+000595,Komentarz117,Grupa 1,Dzial 0,Elsie Alvarez,000011/000054/000314/000595
+000596,Komentarz389,Grupa 2,Dzial 2,Guy Moran ,000011/000090/000171/000596
+000597,Komentarz232,Grupa 0,Dzial 2,Nora Roberts,000004/000053/000304/000597
+000598,Komentarz664,Grupa 0,Dzial 1,Frederick Mclaughlin,000019/000083/000245/000598
+000599,Komentarz745,Grupa 1,Dzial 0,Rogelio Tucker,000009/000047/000288/000599
+000600,Komentarz794,Grupa 1,Dzial 3,Rex Casey ,000018/000071/000286/000600
+000601,Komentarz202,Grupa 0,Dzial 3,Naomi Shelton,000011/000077/000243/000601
+000602,Komentarz157,Grupa 1,Dzial 0,Elsie Alvarez,000010/000034/000233/000602
+000603,Komentarz719,Grupa 0,Dzial 3,Salvador Reese ,000012/000058/000195/000603
+000604,Komentarz832,Grupa 2,Dzial 3,Shawn Santos ,000015/000088/000186/000604
+000605,Komentarz304,Grupa 2,Dzial 2,Christina Nguyen,000019/000083/000245/000605
+000606,Komentarz196,Grupa 1,Dzial 1,Orlando Delgado,000011/000057/000122/000606
+000607,Komentarz810,Grupa 2,Dzial 2,Guy Moran ,000018/000097/000239/000607
+000608,Komentarz466,Grupa 0,Dzial 2,Jenna Dean,000020/000087/000207/000608
+000609,Komentarz982,Grupa 1,Dzial 0,Alison Lyons,000004/000053/000256/000609
+000610,Komentarz20,Grupa 1,Dzial 1,Angelica Hale,000010/000092/000319/000610
+000611,Komentarz296,Grupa 1,Dzial 3,Izydor Patryk,000009/000032/000181/000611
+000612,Komentarz519,Grupa 1,Dzial 1,Brett Swanson ,000022/000049/000102/000612
+000613,Komentarz738,Grupa 2,Dzial 3,Corey Mccormick ,000025/000040/000292/000613
+000614,Komentarz39,Grupa 0,Dzial 3,Jose Gilbert ,000018/000071/000199/000614
+000615,Komentarz599,Grupa 0,Dzial 1,Frederick Mclaughlin,000005/000080/000143/000615
+000616,Komentarz843,Grupa 1,Dzial 0,Rogelio Tucker,000017/000093/000168/000616
+000617,Komentarz144,Grupa 0,Dzial 3,Paulette Mcdaniel ,000014/000073/000223/000617
+000618,Komentarz629,Grupa 1,Dzial 0,Rogelio Tucker,000010/000092/000319/000618
+000619,Komentarz834,Grupa 0,Dzial 3,Jose Gilbert ,000004/000053/000304/000619
+000620,Komentarz339,Grupa 2,Dzial 2,Guy Moran ,000016/000055/000211/000620
+000621,Komentarz253,Grupa 2,Dzial 0,Phil Briggs,000020/000087/000224/000621
+000622,Komentarz529,Grupa 1,Dzial 2,Tanya Bridges ,000025/000059/000317/000622
+000623,Komentarz223,Grupa 0,Dzial 2,Jenna Dean,000024/000042/000254/000623
+000624,Komentarz132,Grupa 2,Dzial 1,Ramiro Thompson,000013/000066/000163/000624
+000625,Komentarz383,Grupa 0,Dzial 2,Irene Sandoval,000005/000080/000189/000625
+000626,Komentarz560,Grupa 2,Dzial 1,Diana Pierce ,000018/000097/000205/000626
+000627,Komentarz338,Grupa 0,Dzial 2,Cora Moody ,000016/000100/000242/000627
+000628,Komentarz588,Grupa 2,Dzial 2,Guy Moran ,000017/000093/000168/000628
+000629,Komentarz58,Grupa 0,Dzial 2,Cora Moody ,000025/000051/000267/000629
+000630,Komentarz641,Grupa 2,Dzial 0,Phil Briggs,000010/000041/000130/000630
+000631,Komentarz50,Grupa 0,Dzial 2,Jenna Dean,000009/000085/000104/000631
+000632,Komentarz718,Grupa 2,Dzial 1,Alan Underwood ,000009/000032/000181/000632
+000633,Komentarz188,Grupa 0,Dzial 2,Allen Thompson,000001/000033/000111/000633
+000634,Komentarz494,Grupa 2,Dzial 3,Shawn Santos ,000010/000041/000130/000634
+000635,Komentarz539,Grupa 0,Dzial 2,Irene Sandoval,000010/000041/000121/000635
+000636,Komentarz201,Grupa 0,Dzial 3,Naomi Shelton,000025/000051/000114/000636
+000637,Komentarz384,Grupa 0,Dzial 2,Jenna Dean,000005/000030/000191/000637
+000638,Komentarz295,Grupa 1,Dzial 1,Orlando Delgado,000004/000036/000309/000638
+000639,Komentarz473,Grupa 2,Dzial 1,Roy Weaver ,000014/000095/000187/000639
+000640,Komentarz856,Grupa 2,Dzial 1,Marta Clarke,000013/000072/000229/000640
+000641,Komentarz302,Grupa 2,Dzial 2,Alberto Allison ,000014/000095/000187/000641
+000642,Komentarz751,Grupa 0,Dzial 2,Allen Thompson,000004/000053/000304/000642
+000643,Komentarz723,Grupa 2,Dzial 1,Diana Pierce ,000005/000080/000143/000643
+000644,Komentarz290,Grupa 1,Dzial 3,Izydor Patryk,000002/000050/000307/000644
+000645,Komentarz721,Grupa 1,Dzial 0,Alison Lyons,000015/000088/000235/000645
+000646,Komentarz748,Grupa 0,Dzial 3,Janie Grant,000020/000044/000295/000646
+000647,Komentarz908,Grupa 2,Dzial 1,Ramiro Thompson,000010/000092/000190/000647
+000648,Komentarz211,Grupa 1,Dzial 3,Izydor Patryk,000005/000038/000287/000648
+000649,Komentarz726,Grupa 1,Dzial 0,Elsie Alvarez,000019/000082/000305/000649
+000650,Komentarz827,Grupa 1,Dzial 1,Angelica Hale,000017/000093/000297/000650
+000651,Komentarz970,Grupa 0,Dzial 3,Lorraine Cortez ,000019/000083/000282/000651
+000652,Komentarz840,Grupa 0,Dzial 2,Cora Moody ,000011/000096/000310/000652
+000653,Komentarz882,Grupa 0,Dzial 2,Jenna Dean,000002/000050/000324/000653
+000654,Komentarz200,Grupa 1,Dzial 0,Alison Lyons,000020/000063/000160/000654
+000655,Komentarz562,Grupa 2,Dzial 2,Christina Nguyen,000012/000074/000312/000655
+000656,Komentarz855,Grupa 2,Dzial 0,Cecelia Joseph,000010/000034/000233/000656
+000657,Komentarz19,Grupa 1,Dzial 1,Orlando Delgado,000009/000047/000288/000657
+000658,Komentarz624,Grupa 0,Dzial 2,Noah Barnes ,000021/000052/000170/000658
+000659,Komentarz617,Grupa 1,Dzial 1,Luther Ramsey ,000020/000069/000222/000659
+000660,Komentarz475,Grupa 1,Dzial 0,Rogelio Tucker,000012/000074/000149/000660
+000661,Komentarz173,Grupa 2,Dzial 1,Diana Pierce ,000009/000085/000322/000661
+000662,Komentarz722,Grupa 1,Dzial 1,Brett Swanson ,000005/000080/000236/000662
+000663,Komentarz900,Grupa 1,Dzial 1,Elizabeth Conner,000013/000066/000152/000663
+000664,Komentarz267,Grupa 0,Dzial 3,Jose Gilbert ,000012/000074/000266/000664
+000665,Komentarz766,Grupa 0,Dzial 2,Allen Thompson,000005/000080/000120/000665
+000666,Komentarz385,Grupa 1,Dzial 1,Luther Ramsey ,000013/000072/000161/000666
+000667,Komentarz488,Grupa 2,Dzial 1,Marta Clarke,000010/000092/000319/000667
+000668,Komentarz995,Grupa 1,Dzial 3,Izydor Patryk,000019/000076/000135/000668
+000669,Komentarz154,Grupa 2,Dzial 3,Shawn Santos ,000022/000049/000169/000669
+000670,Komentarz795,Grupa 0,Dzial 2,Bernard Ellis ,000011/000096/000321/000670
+000671,Komentarz409,Grupa 0,Dzial 2,Bernard Ellis ,000004/000036/000309/000671
+000672,Komentarz31,Grupa 0,Dzial 2,Cora Moody ,000005/000030/000191/000672
+000673,Komentarz38,Grupa 2,Dzial 3,Corey Mccormick ,000004/000031/000208/000673
+000674,Komentarz828,Grupa 1,Dzial 0,Elsie Alvarez,000014/000073/000260/000674
+000675,Komentarz966,Grupa 0,Dzial 3,Janie Grant,000014/000095/000187/000675
+000676,Komentarz839,Grupa 0,Dzial 3,Paulette Mcdaniel ,000013/000066/000163/000676
+000677,Komentarz176,Grupa 2,Dzial 1,Ramiro Thompson,000022/000081/000249/000677
+000678,Komentarz74,Grupa 0,Dzial 2,Irene Sandoval,000011/000077/000291/000678
+000679,Komentarz370,Grupa 2,Dzial 1,Diana Pierce ,000005/000030/000315/000679
+000680,Komentarz677,Grupa 1,Dzial 1,Angelica Hale,000004/000053/000304/000680
+000681,Komentarz701,Grupa 2,Dzial 3,Corey Mccormick ,000008/000029/000241/000681
+000682,Komentarz10,Grupa 1,Dzial 1,Ernestine Mathis ,000011/000054/000127/000682
+000683,Komentarz228,Grupa 2,Dzial 2,Christina Nguyen,000006/000039/000112/000683
+000684,Komentarz87,Grupa 2,Dzial 1,Diana Pierce ,000022/000049/000169/000684
+000685,Komentarz152,Grupa 1,Dzial 0,Alison Lyons,000012/000046/000210/000685
+000686,Komentarz552,Grupa 0,Dzial 2,Cora Moody ,000002/000050/000324/000686
+000687,Komentarz319,Grupa 0,Dzial 2,Jenna Dean,000020/000063/000228/000687
+000688,Komentarz370,Grupa 0,Dzial 1,Frederick Mclaughlin,000011/000096/000321/000688
+000689,Komentarz640,Grupa 1,Dzial 1,Angelica Hale,000010/000075/000273/000689
+000690,Komentarz930,Grupa 2,Dzial 0,Cecelia Joseph,000019/000082/000275/000690
+000691,Komentarz937,Grupa 1,Dzial 3,Izydor Patryk,000010/000041/000316/000691
+000692,Komentarz228,Grupa 2,Dzial 2,Christina Nguyen,000009/000085/000124/000692
+000693,Komentarz946,Grupa 1,Dzial 1,Brett Swanson ,000005/000038/000287/000693
+000694,Komentarz932,Grupa 0,Dzial 2,Al Welch ,000011/000028/000308/000694
+000695,Komentarz47,Grupa 0,Dzial 2,Cora Moody ,000009/000085/000124/000695
+000696,Komentarz385,Grupa 1,Dzial 3,Izydor Patryk,851968/000016/000100/000696
+000697,Komentarz769,Grupa 0,Dzial 2,Noah Barnes ,000006/000026/000290/000697
+000698,Komentarz924,Grupa 2,Dzial 1,Ramiro Thompson,000012/000046/000131/000698
+000699,Komentarz550,Grupa 0,Dzial 2,Al Welch ,000013/000098/000176/000699
+000700,Komentarz390,Grupa 1,Dzial 3,Rex Casey ,000010/000075/000117/000700
+000701,Komentarz749,Grupa 0,Dzial 2,Noah Barnes ,000009/000047/000137/000701
+000702,Komentarz23,Grupa 0,Dzial 2,Allen Thompson,000010/000092/000190/000702
+000703,Komentarz906,Grupa 1,Dzial 0,Elsie Alvarez,000015/000088/000219/000703
+000704,Komentarz704,Grupa 1,Dzial 1,Orlando Delgado,000011/000077/000188/000704
+000705,Komentarz792,Grupa 2,Dzial 2,Christina Nguyen,000010/000041/000197/000705
+000706,Komentarz810,Grupa 0,Dzial 3,Jose Gilbert ,000010/000037/000302/000706
+000707,Komentarz778,Grupa 0,Dzial 3,Jose Gilbert ,000010/000034/000233/000707
+000708,Komentarz108,Grupa 0,Dzial 2,Bernard Ellis ,000014/000095/000132/000708
+000709,Komentarz241,Grupa 0,Dzial 3,Naomi Shelton,000022/000094/000153/000709
+000710,Komentarz809,Grupa 1,Dzial 1,Brett Swanson ,000010/000092/000319/000710
+000711,Komentarz506,Grupa 0,Dzial 2,Noah Barnes ,000010/000041/000130/000711
+000712,Komentarz183,Grupa 0,Dzial 2,Nora Roberts,000011/000077/000291/000712
+000713,Komentarz668,Grupa 0,Dzial 2,Al Welch ,000013/000098/000278/000713
+000714,Komentarz737,Grupa 1,Dzial 0,Alison Lyons,000006/000026/000290/000714
+000715,Komentarz358,Grupa 0,Dzial 3,Jose Gilbert ,000009/000047/000165/000715
+000716,Komentarz558,Grupa 0,Dzial 2,Noah Barnes ,000011/000096/000108/000716
+000717,Komentarz663,Grupa 2,Dzial 3,Corey Mccormick ,000018/000071/000128/000717
+000718,Komentarz913,Grupa 0,Dzial 3,Naomi Shelton,000015/000088/000186/000718
+000719,Komentarz476,Grupa 2,Dzial 3,Shawn Santos ,000011/000096/000310/000719
+000720,Komentarz319,Grupa 2,Dzial 2,Alberto Allison ,000013/000066/000152/000720
+000721,Komentarz846,Grupa 1,Dzial 1,Elizabeth Conner,000002/000050/000307/000721
+000722,Komentarz36,Grupa 0,Dzial 3,Salvador Reese ,000014/000060/000185/000722
+000723,Komentarz586,Grupa 1,Dzial 0,Elsie Alvarez,000011/000077/000136/000723
+000724,Komentarz558,Grupa 1,Dzial 1,Brett Swanson ,000009/000085/000104/000724
+000725,Komentarz743,Grupa 0,Dzial 3,Salvador Reese ,000009/000032/000181/000725
+000726,Komentarz599,Grupa 2,Dzial 2,Christina Nguyen,000009/000068/000234/000726
+000727,Komentarz475,Grupa 2,Dzial 0,Phil Briggs,000011/000096/000227/000727
+000728,Komentarz16,Grupa 2,Dzial 0,Phil Briggs,000009/000047/000288/000728
+000729,Komentarz102,Grupa 2,Dzial 3,Corey Mccormick ,000013/000048/000276/000729
+000730,Komentarz673,Grupa 2,Dzial 3,Shawn Santos ,000010/000041/000316/000730
+000731,Komentarz477,Grupa 2,Dzial 0,Phil Briggs,000018/000071/000286/000731
+000732,Komentarz330,Grupa 0,Dzial 2,Irene Sandoval,000010/000041/000214/000732
+000733,Komentarz768,Grupa 1,Dzial 1,Ernestine Mathis ,000009/000085/000261/000733
+000734,Komentarz541,Grupa 1,Dzial 3,Rex Casey ,000002/000061/000109/000734
+000735,Komentarz181,Grupa 2,Dzial 0,Phil Briggs,000010/000041/000121/000735
+000736,Komentarz817,Grupa 1,Dzial 0,Elsie Alvarez,000005/000080/000147/000736
+000737,Komentarz467,Grupa 1,Dzial 0,Rogelio Tucker,000005/000038/000318/000737
+000738,Komentarz256,Grupa 2,Dzial 1,Alan Underwood ,000002/000061/000174/000738
+000739,Komentarz375,Grupa 1,Dzial 1,Luther Ramsey ,000018/000086/000180/000739
+000740,Komentarz274,Grupa 2,Dzial 1,Alan Underwood ,000021/000052/000141/000740
+000741,Komentarz515,Grupa 1,Dzial 0,Rogelio Tucker,000006/000026/000253/000741
+000742,Komentarz49,Grupa 0,Dzial 3,Lorraine Cortez ,000006/000026/000105/000742
+000743,Komentarz298,Grupa 2,Dzial 3,Corey Mccormick ,000005/000080/000147/000743
+000744,Komentarz906,Grupa 1,Dzial 1,Luther Ramsey ,000014/000027/000116/000744
+000745,Komentarz997,Grupa 0,Dzial 3,Salvador Reese ,000010/000037/000294/000745
+000746,Komentarz570,Grupa 2,Dzial 1,Alan Underwood ,000013/000072/000246/000746
+000747,Komentarz346,Grupa 2,Dzial 2,Christina Nguyen,000012/000058/000195/000747
+000748,Komentarz895,Grupa 1,Dzial 1,Luther Ramsey ,000010/000041/000197/000748
+000749,Komentarz551,Grupa 1,Dzial 3,Rex Casey ,000024/000042/000263/000749
+000750,Komentarz843,Grupa 0,Dzial 3,Lorraine Cortez ,000009/000047/000165/000750
+000751,Komentarz555,Grupa 0,Dzial 3,Dennis Kelley ,000012/000074/000149/000751
+000752,Komentarz413,Grupa 0,Dzial 3,Lorraine Cortez ,000004/000053/000167/000752
+000753,Komentarz773,Grupa 1,Dzial 1,Orlando Delgado,000010/000037/000270/000753
+000754,Komentarz271,Grupa 1,Dzial 1,Orlando Delgado,000011/000057/000175/000754
+000755,Komentarz11,Grupa 1,Dzial 2,Tanya Bridges ,000006/000039/000112/000755
+000756,Komentarz873,Grupa 0,Dzial 2,Jenna Dean,000020/000063/000160/000756
+000757,Komentarz469,Grupa 1,Dzial 0,Elsie Alvarez,000019/000065/000251/000757
+000758,Komentarz284,Grupa 1,Dzial 3,Rex Casey ,000011/000077/000291/000758
+000759,Komentarz936,Grupa 1,Dzial 0,Elsie Alvarez,000022/000094/000153/000759
+000760,Komentarz567,Grupa 2,Dzial 0,Phil Briggs,000020/000063/000228/000760
+000761,Komentarz363,Grupa 2,Dzial 2,Guy Moran ,000010/000075/000323/000761
+000762,Komentarz654,Grupa 0,Dzial 2,Irene Sandoval,000018/000071/000238/000762
+000763,Komentarz21,Grupa 1,Dzial 1,Elizabeth Conner,000008/000029/000179/000763
+000764,Komentarz759,Grupa 1,Dzial 0,Elsie Alvarez,000002/000084/000212/000764
+000765,Komentarz117,Grupa 1,Dzial 0,Elsie Alvarez,000019/000065/000192/000765
+000766,Komentarz139,Grupa 0,Dzial 1,Frederick Mclaughlin,000012/000046/000131/000766
+000767,Komentarz984,Grupa 1,Dzial 1,Angelica Hale,000008/000062/000240/000767
+000768,Komentarz11,Grupa 1,Dzial 1,Brett Swanson ,000023/000078/000142/000768
+000769,Komentarz430,Grupa 0,Dzial 2,Nora Roberts,000019/000035/000306/000769
+000770,Komentarz728,Grupa 1,Dzial 1,Elizabeth Conner,000010/000075/000296/000770
+000771,Komentarz278,Grupa 0,Dzial 2,Nora Roberts,000021/000052/000170/000771
+000772,Komentarz281,Grupa 0,Dzial 2,Al Welch ,000005/000080/000120/000772
+000773,Komentarz134,Grupa 1,Dzial 1,Orlando Delgado,000014/000060/000201/000773
+000774,Komentarz817,Grupa 2,Dzial 3,Corey Mccormick ,000013/000098/000150/000774
+000775,Komentarz499,Grupa 0,Dzial 2,Cora Moody ,000010/000041/000121/000775
+000776,Komentarz791,Grupa 1,Dzial 1,Luther Ramsey ,000015/000088/000219/000776
+000777,Komentarz591,Grupa 1,Dzial 3,Izydor Patryk,000010/000075/000311/000777
+000778,Komentarz300,Grupa 2,Dzial 2,Guy Moran ,000004/000053/000106/000778
+000779,Komentarz942,Grupa 0,Dzial 3,Janie Grant,000024/000042/000263/000779
+000780,Komentarz808,Grupa 0,Dzial 3,Dennis Kelley ,000020/000087/000224/000780
+000781,Komentarz184,Grupa 0,Dzial 2,Jenna Dean,000011/000077/000247/000781
+000782,Komentarz134,Grupa 1,Dzial 2,Tanya Bridges ,000011/000054/000151/000782
+000783,Komentarz539,Grupa 1,Dzial 1,Ernestine Mathis ,000010/000041/000197/000783
+000784,Komentarz827,Grupa 0,Dzial 2,Cora Moody ,000013/000098/000150/000784
+000785,Komentarz790,Grupa 2,Dzial 3,Corey Mccormick ,000009/000032/000181/000785
+000786,Komentarz659,Grupa 0,Dzial 1,Frederick Mclaughlin,000019/000076/000135/000786
+000787,Komentarz502,Grupa 0,Dzial 2,Al Welch ,000019/000083/000245/000787
+000788,Komentarz348,Grupa 2,Dzial 3,Shawn Santos ,000019/000082/000305/000788
+000789,Komentarz956,Grupa 2,Dzial 1,Alan Underwood ,000013/000098/000150/000789
+000790,Komentarz545,Grupa 2,Dzial 1,Marta Clarke,000019/000082/000285/000790
+000791,Komentarz181,Grupa 2,Dzial 2,Guy Moran ,000002/000061/000109/000791
+000792,Komentarz752,Grupa 2,Dzial 0,Phil Briggs,000005/000038/000318/000792
+000793,Komentarz690,Grupa 1,Dzial 1,Brett Swanson ,000004/000036/000309/000793
+000794,Komentarz965,Grupa 0,Dzial 2,Al Welch ,000009/000068/000234/000794
+000795,Komentarz934,Grupa 1,Dzial 1,Brett Swanson ,000023/000078/000142/000795
+000796,Komentarz317,Grupa 1,Dzial 1,Angelica Hale,000014/000060/000101/000796
+000797,Komentarz394,Grupa 0,Dzial 2,Al Welch ,000021/000079/000259/000797
+000798,Komentarz147,Grupa 2,Dzial 2,Guy Moran ,000011/000096/000227/000798
+000799,Komentarz836,Grupa 1,Dzial 1,Angelica Hale,000019/000065/000251/000799
+000800,Komentarz998,Grupa 0,Dzial 3,Paulette Mcdaniel ,000012/000058/000265/000800
+000801,Komentarz283,Grupa 0,Dzial 2,Bernard Ellis ,000019/000035/000182/000801
+000802,Komentarz17,Grupa 2,Dzial 0,Cecelia Joseph,000004/000053/000106/000802
+000803,Komentarz469,Grupa 2,Dzial 0,Phil Briggs,000025/000059/000123/000803
+000804,Komentarz537,Grupa 0,Dzial 2,Allen Thompson,000014/000073/000223/000804
+000805,Komentarz465,Grupa 2,Dzial 1,Marta Clarke,000021/000079/000184/000805
+000806,Komentarz443,Grupa 2,Dzial 1,Roy Weaver ,000004/000053/000198/000806
+000807,Komentarz94,Grupa 0,Dzial 3,Naomi Shelton,000013/000098/000278/000807
+000808,Komentarz244,Grupa 0,Dzial 3,Janie Grant,
+000809,Komentarz50,Grupa 0,Dzial 2,Cora Moody ,000025/000059/000123/000809
+000810,Komentarz255,Grupa 1,Dzial 3,Rex Casey ,000002/000064/000209/000810
+000811,Komentarz899,Grupa 1,Dzial 3,Rex Casey ,000006/000026/000290/000811
+000812,Komentarz707,Grupa 2,Dzial 2,Guy Moran ,000010/000075/000117/000812
+000813,Komentarz698,Grupa 2,Dzial 2,Christina Nguyen,000011/000057/000122/000813
+000814,Komentarz114,Grupa 0,Dzial 3,Dennis Kelley ,000008/000029/000113/000814
+000815,Komentarz411,Grupa 0,Dzial 2,Noah Barnes ,000020/000087/000207/000815
+000816,Komentarz507,Grupa 2,Dzial 1,Alan Underwood ,000004/000053/000256/000816
+000817,Komentarz263,Grupa 0,Dzial 3,Jose Gilbert ,000009/000047/000288/000817
+000818,Komentarz296,Grupa 0,Dzial 2,Cora Moody ,000009/000085/000115/000818
+000819,Komentarz274,Grupa 1,Dzial 1,Angelica Hale,000020/000063/000146/000819
+000820,Komentarz929,Grupa 0,Dzial 2,Irene Sandoval,000016/000100/000242/000820
+000821,Komentarz341,Grupa 2,Dzial 2,Alberto Allison ,000009/000085/000124/000821
+000822,Komentarz175,Grupa 2,Dzial 0,Phil Briggs,000025/000040/000268/000822
+000823,Komentarz196,Grupa 2,Dzial 3,Corey Mccormick ,000004/000031/000155/000823
+000824,Komentarz978,Grupa 1,Dzial 1,Brett Swanson ,000016/000100/000242/000824
+000825,Komentarz449,Grupa 2,Dzial 2,Guy Moran ,000006/000039/000112/000825
+000826,Komentarz396,Grupa 2,Dzial 3,Corey Mccormick ,000019/000065/000192/000826
+000827,Komentarz432,Grupa 2,Dzial 1,Marta Clarke,000010/000092/000319/000827
+000828,Komentarz484,Grupa 0,Dzial 2,Bernard Ellis ,000008/000029/000281/000828
+000829,Komentarz969,Grupa 0,Dzial 2,Irene Sandoval,000014/000027/000116/000829
+000830,Komentarz355,Grupa 0,Dzial 2,Bernard Ellis ,000014/000060/000201/000830
+000831,Komentarz185,Grupa 2,Dzial 1,Alan Underwood ,000017/000093/000297/000831
+000832,Komentarz722,Grupa 0,Dzial 2,Bernard Ellis ,000009/000047/000137/000832
+000833,Komentarz161,Grupa 2,Dzial 2,Guy Moran ,000004/000031/000274/000833
+000834,Komentarz450,Grupa 2,Dzial 3,Shawn Santos ,000004/000053/000106/000834
+000835,Komentarz701,Grupa 0,Dzial 3,Paulette Mcdaniel ,000019/000083/000245/000835
+000836,Komentarz755,Grupa 0,Dzial 3,Lorraine Cortez ,000010/000092/000319/000836
+000837,Komentarz878,Grupa 0,Dzial 2,Noah Barnes ,000004/000053/000140/000837
+000838,Komentarz486,Grupa 2,Dzial 1,Alan Underwood ,000019/000083/000221/000838
+000839,Komentarz601,Grupa 2,Dzial 0,Phil Briggs,000011/000077/000291/000839
+000840,Komentarz979,Grupa 1,Dzial 1,Angelica Hale,000010/000075/000117/000840
+000841,Komentarz742,Grupa 2,Dzial 0,Cecelia Joseph,000021/000052/000141/000841
+000842,Komentarz227,Grupa 2,Dzial 3,Corey Mccormick ,000014/000073/000300/000842
+000843,Komentarz202,Grupa 1,Dzial 2,Tanya Bridges ,000024/000042/000254/000843
+000844,Komentarz302,Grupa 1,Dzial 1,Luther Ramsey ,000001/000033/000111/000844
+000845,Komentarz925,Grupa 1,Dzial 2,Tanya Bridges ,000009/000068/000277/000845
+000846,Komentarz575,Grupa 2,Dzial 0,Phil Briggs,000025/000040/000164/000846
+000847,Komentarz693,Grupa 2,Dzial 3,Corey Mccormick ,000002/000050/000324/000847
+000848,Komentarz628,Grupa 1,Dzial 0,Elsie Alvarez,000012/000058/000271/000848
+000849,Komentarz561,Grupa 0,Dzial 2,Jenna Dean,000009/000032/000181/000849
+000850,Komentarz975,Grupa 0,Dzial 2,Cora Moody ,000009/000068/000148/000850
+000851,Komentarz846,Grupa 2,Dzial 0,Cecelia Joseph,000009/000047/000165/000851
+000852,Komentarz559,Grupa 0,Dzial 3,Salvador Reese ,000020/000087/000207/000852
+000853,Komentarz990,Grupa 2,Dzial 1,Ramiro Thompson,000013/000048/000276/000853
+000854,Komentarz503,Grupa 2,Dzial 1,Diana Pierce ,000018/000071/000128/000854
+000855,Komentarz500,Grupa 2,Dzial 1,Roy Weaver ,000002/000084/000212/000855
+000856,Komentarz189,Grupa 0,Dzial 3,Janie Grant,000013/000098/000176/000856
+000857,Komentarz241,Grupa 1,Dzial 3,Rex Casey ,000005/000080/000120/000857
+000858,Komentarz509,Grupa 2,Dzial 3,Corey Mccormick ,000019/000083/000245/000858
+000859,Komentarz35,Grupa 1,Dzial 1,Ernestine Mathis ,000020/000044/000159/000859
+000860,Komentarz668,Grupa 2,Dzial 3,Corey Mccormick ,000025/000040/000292/000860
+000861,Komentarz208,Grupa 1,Dzial 2,Tanya Bridges ,000009/000032/000293/000861
+000862,Komentarz325,Grupa 1,Dzial 0,Alison Lyons,000022/000081/000249/000862
+000863,Komentarz319,Grupa 1,Dzial 3,Izydor Patryk,000009/000085/000215/000863
+000864,Komentarz591,Grupa 1,Dzial 1,Angelica Hale,000019/000083/000221/000864
+000865,Komentarz431,Grupa 2,Dzial 0,Phil Briggs,000022/000094/000153/000865
+000866,Komentarz821,Grupa 1,Dzial 0,Elsie Alvarez,000021/000079/000184/000866
+000867,Komentarz958,Grupa 2,Dzial 1,Diana Pierce ,000019/000082/000289/000867
+000868,Komentarz341,Grupa 1,Dzial 1,Elizabeth Conner,000011/000090/000171/000868
+000869,Komentarz740,Grupa 0,Dzial 2,Noah Barnes ,000011/000090/000171/000869
+000870,Komentarz738,Grupa 2,Dzial 1,Alan Underwood ,000006/000026/000105/000870
+000871,Komentarz237,Grupa 2,Dzial 2,Guy Moran ,000004/000053/000304/000871
+000872,Komentarz402,Grupa 0,Dzial 3,Naomi Shelton,000015/000088/000219/000872
+000873,Komentarz803,Grupa 1,Dzial 0,Elsie Alvarez,000019/000082/000305/000873
+000874,Komentarz544,Grupa 2,Dzial 0,Cecelia Joseph,000022/000094/000206/000874
+000875,Komentarz601,Grupa 0,Dzial 3,Jose Gilbert ,000015/000088/000219/000875
+000876,Komentarz3,Grupa 2,Dzial 0,Cecelia Joseph,000025/000040/000280/000876
+000877,Komentarz537,Grupa 2,Dzial 1,Alan Underwood ,000011/000028/000283/000877
+000878,Komentarz77,Grupa 2,Dzial 1,Roy Weaver ,000012/000046/000131/000878
+000879,Komentarz367,Grupa 0,Dzial 2,Jenna Dean,000009/000047/000303/000879
+000880,Komentarz365,Grupa 1,Dzial 1,Elizabeth Conner,000025/000051/000267/000880
+000881,Komentarz820,Grupa 2,Dzial 2,Christina Nguyen,000012/000074/000312/000881
+000882,Komentarz254,Grupa 2,Dzial 2,Guy Moran ,000014/000073/000284/000882
+000883,Komentarz436,Grupa 2,Dzial 2,Alberto Allison ,000014/000095/000220/000883
+000884,Komentarz413,Grupa 0,Dzial 2,Bernard Ellis ,000012/000058/000271/000884
+000885,Komentarz40,Grupa 2,Dzial 1,Ramiro Thompson,000013/000048/000178/000885
+000886,Komentarz319,Grupa 2,Dzial 1,Alan Underwood ,000023/000078/000142/000886
+000887,Komentarz309,Grupa 2,Dzial 1,Ramiro Thompson,000019/000065/000258/000887
+000888,Komentarz561,Grupa 2,Dzial 2,Christina Nguyen,000010/000092/000190/000888
+000889,Komentarz203,Grupa 2,Dzial 0,Cecelia Joseph,000020/000044/000295/000889
+000890,Komentarz94,Grupa 2,Dzial 3,Corey Mccormick ,000014/000060/000201/000890
+000891,Komentarz726,Grupa 2,Dzial 3,Shawn Santos ,000012/000058/000193/000891
+000892,Komentarz813,Grupa 2,Dzial 0,Cecelia Joseph,000011/000096/000227/000892
+000893,Komentarz249,Grupa 2,Dzial 2,Christina Nguyen,000020/000044/000159/000893
+000894,Komentarz383,Grupa 0,Dzial 2,Nora Roberts,000018/000071/000199/000894
+000895,Komentarz222,Grupa 0,Dzial 2,Nora Roberts,000011/000077/000291/000895
+000896,Komentarz549,Grupa 2,Dzial 3,Corey Mccormick ,000006/000026/000138/000896
+000897,Komentarz463,Grupa 1,Dzial 1,Orlando Delgado,000006/000026/000290/000897
+000898,Komentarz689,Grupa 2,Dzial 3,Corey Mccormick ,000011/000096/000310/000898
+000899,Komentarz760,Grupa 0,Dzial 2,Al Welch ,000019/000035/000257/000899
+000900,Komentarz8,Grupa 0,Dzial 2,Bernard Ellis ,000008/000029/000241/000900
+000901,Komentarz187,Grupa 0,Dzial 3,Naomi Shelton,000013/000066/000157/000901
+000902,Komentarz527,Grupa 2,Dzial 1,Marta Clarke,000005/000038/000272/000902
+000903,Komentarz523,Grupa 0,Dzial 2,Bernard Ellis ,000005/000080/000236/000903
+000904,Komentarz226,Grupa 0,Dzial 3,Lorraine Cortez ,000023/000078/000255/000904
+000905,Komentarz833,Grupa 1,Dzial 1,Ernestine Mathis ,000025/000059/000123/000905
+000906,Komentarz766,Grupa 1,Dzial 1,Luther Ramsey ,000021/000079/000184/000906
+000907,Komentarz850,Grupa 1,Dzial 1,Elizabeth Conner,000009/000085/000103/000907
+000908,Komentarz752,Grupa 1,Dzial 2,Tanya Bridges ,000025/000051/000183/000908
+000909,Komentarz366,Grupa 0,Dzial 2,Nora Roberts,000019/000035/000182/000909
+000910,Komentarz180,Grupa 2,Dzial 3,Shawn Santos ,000011/000054/000127/000910
+000911,Komentarz419,Grupa 2,Dzial 1,Roy Weaver ,000019/000082/000289/000911
+000912,Komentarz896,Grupa 1,Dzial 1,Ernestine Mathis ,000006/000039/000112/000912
+000913,Komentarz408,Grupa 0,Dzial 3,Paulette Mcdaniel ,000018/000071/000128/000913
+000914,Komentarz926,Grupa 0,Dzial 2,Irene Sandoval,000011/000077/000188/000914
+000915,Komentarz563,Grupa 0,Dzial 2,Jenna Dean,000009/000068/000148/000915
+000916,Komentarz437,Grupa 2,Dzial 2,Guy Moran ,000004/000053/000304/000916
+000917,Komentarz91,Grupa 2,Dzial 1,Marta Clarke,000018/000071/000238/000917
+000918,Komentarz952,Grupa 2,Dzial 1,Marta Clarke,000010/000075/000117/000918
+000919,Komentarz375,Grupa 2,Dzial 1,Diana Pierce ,000010/000041/000214/000919
+000920,Komentarz806,Grupa 1,Dzial 1,Elizabeth Conner,000009/000085/000215/000920
+000921,Komentarz469,Grupa 1,Dzial 1,Orlando Delgado,000020/000087/000207/000921
+000922,Komentarz248,Grupa 1,Dzial 1,Elizabeth Conner,000024/000042/000254/000922
+000923,Komentarz27,Grupa 1,Dzial 3,Rex Casey ,000018/000071/000238/000923
+000924,Komentarz95,Grupa 1,Dzial 1,Luther Ramsey ,000019/000082/000158/000924
+000925,Komentarz458,Grupa 0,Dzial 2,Cora Moody ,000025/000051/000183/000925
+000926,Komentarz555,Grupa 0,Dzial 2,Irene Sandoval,000009/000067/000162/000926
+000927,Komentarz878,Grupa 0,Dzial 3,Dennis Kelley ,000022/000081/000139/000927
+000928,Komentarz540,Grupa 0,Dzial 1,Frederick Mclaughlin,000018/000097/000205/000928
+000929,Komentarz624,Grupa 0,Dzial 2,Irene Sandoval,000012/000058/000195/000929
+000930,Komentarz381,Grupa 1,Dzial 1,Luther Ramsey ,000013/000072/000229/000930
+000931,Komentarz92,Grupa 1,Dzial 1,Brett Swanson ,000010/000041/000130/000931
+000932,Komentarz164,Grupa 0,Dzial 3,Lorraine Cortez ,000004/000053/000172/000932
+000933,Komentarz818,Grupa 1,Dzial 1,Luther Ramsey ,000019/000035/000118/000933
+000934,Komentarz644,Grupa 0,Dzial 3,Naomi Shelton,000008/000062/000240/000934
+000935,Komentarz209,Grupa 0,Dzial 2,Nora Roberts,000012/000046/000210/000935
+000936,Komentarz860,Grupa 0,Dzial 3,Paulette Mcdaniel ,000015/000088/000235/000936
+000937,Komentarz736,Grupa 0,Dzial 3,Dennis Kelley ,000012/000046/000210/000937
+000938,Komentarz917,Grupa 0,Dzial 3,Lorraine Cortez ,000014/000073/000284/000938
+000939,Komentarz931,Grupa 0,Dzial 2,Irene Sandoval,000005/000030/000110/000939
+000940,Komentarz495,Grupa 0,Dzial 3,Jose Gilbert ,000014/000060/000201/000940
+000941,Komentarz548,Grupa 2,Dzial 3,Corey Mccormick ,000008/000029/000281/000941
+000942,Komentarz212,Grupa 0,Dzial 2,Al Welch ,000018/000071/000203/000942
+000943,Komentarz367,Grupa 0,Dzial 2,Bernard Ellis ,000014/000073/000260/000943
+000944,Komentarz931,Grupa 2,Dzial 1,Ramiro Thompson,000009/000085/000103/000944
+000945,Komentarz925,Grupa 2,Dzial 2,Christina Nguyen,000013/000066/000163/000945
+000946,Komentarz87,Grupa 1,Dzial 0,Elsie Alvarez,000013/000098/000278/000946
+000947,Komentarz211,Grupa 1,Dzial 0,Alison Lyons,000005/000038/000318/000947
+000948,Komentarz38,Grupa 2,Dzial 1,Ramiro Thompson,000020/000044/000295/000948
+000949,Komentarz280,Grupa 1,Dzial 3,Rex Casey ,000011/000054/000314/000949
+000950,Komentarz195,Grupa 1,Dzial 0,Alison Lyons,000009/000085/000103/000950
+000951,Komentarz218,Grupa 2,Dzial 1,Alan Underwood ,000011/000028/000283/000951
+000952,Komentarz564,Grupa 1,Dzial 3,Izydor Patryk,000013/000048/000178/000952
+000953,Komentarz641,Grupa 0,Dzial 2,Al Welch ,000021/000079/000184/000953
+000954,Komentarz996,Grupa 2,Dzial 1,Diana Pierce ,000009/000068/000148/000954
+000955,Komentarz153,Grupa 0,Dzial 2,Irene Sandoval,000020/000044/000295/000955
+000956,Komentarz458,Grupa 0,Dzial 2,Bernard Ellis ,000011/000096/000321/000956
+000957,Komentarz205,Grupa 0,Dzial 2,Jenna Dean,000013/000066/000163/000957
+000958,Komentarz936,Grupa 1,Dzial 3,Izydor Patryk,000002/000061/000109/000958
+000959,Komentarz807,Grupa 0,Dzial 2,Cora Moody ,000010/000037/000270/000959
+000960,Komentarz973,Grupa 0,Dzial 3,Lorraine Cortez ,000018/000071/000128/000960
+000961,Komentarz281,Grupa 0,Dzial 3,Janie Grant,000019/000035/000257/000961
+000962,Komentarz691,Grupa 2,Dzial 2,Alberto Allison ,000014/000073/000279/000962
+000963,Komentarz704,Grupa 1,Dzial 1,Ernestine Mathis ,000012/000058/000193/000963
+000964,Komentarz754,Grupa 2,Dzial 2,Christina Nguyen,000018/000086/000180/000964
+000965,Komentarz771,Grupa 2,Dzial 1,Diana Pierce ,000010/000075/000156/000965
+000966,Komentarz651,Grupa 0,Dzial 2,Bernard Ellis ,000009/000085/000124/000966
+000967,Komentarz512,Grupa 2,Dzial 1,Diana Pierce ,000025/000051/000145/000967
+000968,Komentarz246,Grupa 0,Dzial 3,Dennis Kelley ,000011/000077/000313/000968
+000969,Komentarz344,Grupa 1,Dzial 1,Brett Swanson ,000014/000095/000220/000969
+000970,Komentarz93,Grupa 0,Dzial 3,Dennis Kelley ,000019/000065/000252/000970
+000971,Komentarz598,Grupa 2,Dzial 3,Corey Mccormick ,000004/000053/000304/000971
+000972,Komentarz638,Grupa 2,Dzial 1,Ramiro Thompson,000009/000085/000261/000972
+000973,Komentarz683,Grupa 1,Dzial 2,Tanya Bridges ,000005/000030/000315/000973
+000974,Komentarz197,Grupa 2,Dzial 1,Ramiro Thompson,000004/000053/000167/000974
+000975,Komentarz965,Grupa 2,Dzial 3,Corey Mccormick ,000014/000073/000279/000975
+000976,Komentarz648,Grupa 0,Dzial 2,Jenna Dean,000019/000065/000252/000976
+000977,Komentarz276,Grupa 0,Dzial 2,Nora Roberts,000009/000032/000293/000977
+000978,Komentarz761,Grupa 0,Dzial 3,Janie Grant,000009/000032/000218/000978
+000979,Komentarz899,Grupa 0,Dzial 3,Paulette Mcdaniel ,000014/000073/000260/000979
+000980,Komentarz160,Grupa 2,Dzial 1,Marta Clarke,000006/000039/000112/000980
+000981,Komentarz973,Grupa 2,Dzial 2,Alberto Allison ,000021/000052/000141/000981
+000982,Komentarz374,Grupa 2,Dzial 2,Alberto Allison ,000010/000075/000296/000982
+000983,Komentarz53,Grupa 0,Dzial 3,Naomi Shelton,000004/000053/000304/000983
+000984,Komentarz315,Grupa 2,Dzial 1,Roy Weaver ,000005/000030/000173/000984
+000985,Komentarz85,Grupa 0,Dzial 2,Cora Moody ,000009/000047/000165/000985
+000986,Komentarz664,Grupa 1,Dzial 2,Tanya Bridges ,000019/000082/000305/000986
+000987,Komentarz856,Grupa 0,Dzial 3,Paulette Mcdaniel ,000014/000060/000201/000987
+000988,Komentarz78,Grupa 2,Dzial 0,Phil Briggs,000012/000058/000195/000988
+000989,Komentarz856,Grupa 0,Dzial 2,Jenna Dean,000008/000062/000200/000989
+000990,Komentarz317,Grupa 0,Dzial 2,Bernard Ellis ,000005/000080/000236/000990
+000991,Komentarz225,Grupa 0,Dzial 2,Al Welch ,000010/000075/000296/000991
+000992,Komentarz558,Grupa 0,Dzial 3,Janie Grant,000018/000071/000203/000992
+000993,Komentarz340,Grupa 1,Dzial 1,Orlando Delgado,000010/000037/000129/000993
+000994,Komentarz178,Grupa 2,Dzial 3,Corey Mccormick ,000018/000097/000205/000994
+000995,Komentarz813,Grupa 1,Dzial 1,Ernestine Mathis ,000023/000078/000142/000995
+000996,Komentarz720,Grupa 1,Dzial 1,Orlando Delgado,000004/000031/000274/000996
+000997,Komentarz413,Grupa 1,Dzial 1,Luther Ramsey ,000010/000037/000294/000997
+000998,Komentarz107,Grupa 2,Dzial 1,Marta Clarke,000008/000062/000200/000998
+000999,Komentarz953,Grupa 1,Dzial 1,Ernestine Mathis ,000009/000085/000103/000999
+001000,Komentarz329,Grupa 2,Dzial 2,Christina Nguyen,000001/000033/000111/001000
