@@ -1,0 +1,98 @@
+-- dzieci
+select * from dbo.baza_al
+where [Odpowiedz na] = '1' or [Odpowiedz na]='33'
+
+
+create function dzieci_al2 (@number varchar(5))
+returns table
+as 
+Return
+(
+with cte (potomek, p2, p3, p4, p5 ) as
+(
+select numer, Komentarz, Grupa, Dzial, Osoba from dbo.baza_al
+where [Odpowiedz na]=@number
+union all
+select numer, Komentarz, Grupa , Dzial, Osoba from dbo.baza_al join cte on
+dbo.baza_al.[Odpowiedz na]=cte.potomek
+)select * from cte
+)		
+go
+
+
+select * from dzieci_al2 (1) 
+
+
+\\rodzic
+
+Create function rodzic_al2 (@number varchar(5))
+returns table
+as 
+Return
+(select * from dbo.baza_al where Numer=(select [Odpowiedz na] from dbo.baza_al where numer=@number)
+)		
+go
+
+
+select * from rodzic_al2 (30) 
+
+\\nowy komentarz
+
+alter procedure NOWY_KOMENTARZ_al
+	@numer_komentarza varchar(50),
+	@tresc_komentarza varchar(50),
+	@grupa varchar(50),
+	@dzial varchar(50),
+	@czlowiek varchar(50),
+	@odpowiedz_na varchar(50)
+AS
+	
+	begin try
+		if exists (select * from dbo.baza_al where numer=@numer_komentarza)
+		begin
+			raiserror ('Juz jest taki komentarz!', 11,1)
+	  end
+	  else
+           
+			insert into dbo.baza_al(numer,komentarz, grupa, dzial, osoba, [Odpowiedz na])
+			values (@numer_komentarza, @tresc_komentarza, @grupa, @dzial,@czlowiek, @odpowiedz_na)     
+end try
+begin catch
+                SELECT ERROR_NUMBER() AS 'NUMER BLEDU',ERROR_MESSAGE() AS 'KOMUNIKAT'
+end catch
+
+exec NOWY_KOMENTARZ_al '1002', 'Komentarz' ,'Grupa 1', 'Dzial 2', 'Doris', '5' dziala :)
+
+select * from dbo.baza_al
+
+\\usuwanie 
+
+create  procedure usuwanie_al @number varchar(50)
+as
+begin try
+		if exists (select * from dbo.baza_al where numer=@number)
+		begin
+			with cte (potomek, p2, p3, p4, p5 ) as
+			(
+			select numer, Komentarz, Grupa, Dzial, Osoba from dbo.baza_al
+			where [Odpowiedz na]=@number
+			union all
+			select numer, Komentarz, Grupa , Dzial, Osoba from dbo.baza_al join cte on
+			dbo.baza_al.[Odpowiedz na]=cte.potomek
+			)
+
+			delete from dbo.baza_al where numer in (
+			select potomek from cte)
+
+			delete from dbo.baza_al where numer=@number
+
+	  end
+	  else
+           raiserror ('Nie ma takiego komentarza!', 11,1)
+			 
+end try
+begin catch
+                SELECT ERROR_NUMBER() AS 'NUMER BLEDU',ERROR_MESSAGE() AS 'KOMUNIKAT'
+end catch
+
+exec usuwanie_al '9'
