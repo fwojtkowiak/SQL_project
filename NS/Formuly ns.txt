@@ -1,0 +1,60 @@
+--dzieci
+
+create function dzieci_ns (@number varchar (50))
+returns table
+as 
+return
+(select c2.* from 
+dbo.nested_sets as c1 join dbo.nested_sets c2 on
+c2.Lft between c1.Lft and c1.Rft 
+where c1.Numer=@number)
+go
+
+--rodzic
+
+create function rodzic_ns(@number varchar(50))
+returns table
+as
+return(
+select top 1 * from dbo.nested_sets where 
+Lft < (select Lft from dbo.nested_sets where numer=@number) and 
+Rft > (select Lft from dbo.nested_sets where numer=@number)order by Lft desc 
+)
+go
+
+--Nowy komentarz
+Create procedure Nowy_komentarz_ns
+@odpowiedz_na varchar(50),
+@numer varchar (50),
+@tresc varchar(50),
+@grupa varchar(50),
+@dzial varchar(50),
+@autor varchar (50)
+as
+begin 
+declare @l as bigint
+declare @r as bigint
+set @l=(select Lft from dbo.nested_sets where numer=@odpowiedz_na)
+set @r=@l+1
+
+UPDATE dbo.nested_sets
+SET Lft= CASE WHEN Lft >= (select Lft from dbo.nested_sets where numer=@odpowiedz_na) THEN Lft+2 ELSE Lft END,
+Rft = Rft+2
+WHERE Rft >= (select Lft from dbo.nested_sets where numer=@odpowiedz_na);
+insert into dbo.nested_sets (Numer, Komentarz, Grupa, [ Dzial], Autor, Lft, Rft)
+values (@numer,@tresc, @grupa, @dzial, @autor, @l, @r)
+end  
+
+--Usuwanie
+create procedure Usuwanie_ns @numer varchar(50)
+as 
+begin 
+declare @l as bigint 
+declare @r as bigint 
+set @l=(select Lft from dbo.nested_sets where Numer=@numer)
+set @r=(select Rft from dbo.nested_sets where Numer=@numer)
+
+delete from dbo.nested_sets where Lft between @l and @r
+update dbo.nested_sets set Rft=Rft-@r+@l-1 where Rft>@r
+update dbo.nested_sets set Lft= Lft -@r+@l-1 where Lft>@r
+end
