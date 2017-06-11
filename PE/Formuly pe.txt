@@ -41,3 +41,22 @@ end catch
 
 --wywolanie
 exec NOWY_KOMENTARZ_pd '000625', 'Grupa 1', 'Dzial 2', 'Doris', '100001', 'procedurka' dziala :)
+
+--Usuwanie
+alter procedure Usun
+	@numer_komentarza varchar(50)
+AS
+	begin try
+		if exists (select * from dbo.pe where numer=@numer_komentarza)
+	begin
+		delete from dbo.pe where Sciezka = @numer_komentarza or Sciezka like '%'+ @numer_komentarza+'/%' or Sciezka like '%'+@numer_komentarza
+		
+	 end
+	 else
+        raiserror ('Nie ma takiego komentarza', 11,1)
+end try
+begin catch
+                SELECT ERROR_NUMBER() AS 'NUMER BLEDU',ERROR_MESSAGE() AS 'KOMUNIKAT'
+end catch
+
+exec Usun '000200'
