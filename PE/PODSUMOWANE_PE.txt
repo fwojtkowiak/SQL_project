@@ -1,0 +1,99 @@
+--dodawnie NOWY KOMENTARZ PE
+
+alter procedure NOWY_KOMENTARZ_pd
+	@numer_komentarza varchar(50),
+	@grupa varchar(50),
+	@dzial varchar(50),
+	@czlowiek varchar(50),
+	@nowy_numer_komantarza varchar(50),
+	@tresc_komentarza varchar(50)
+AS
+	declare @sciezka varchar(50)
+		set @sciezka= (select sciezka from projekt_pe where numer=@numer_komentarza)
+
+	begin try
+		if exists (select * from projekt_pe where numer=@numer_komentarza)
+		begin
+			insert into projekt_pe(numer,komentarz, grupa, dzial, osoba, sciezka)
+			values (@nowy_numer_komantarza, @tresc_komentarza, @grupa, @dzial,@czlowiek, @sciezka+'/'+@nowy_numer_komantarza)
+	  end
+	  else
+                raiserror ('Nie ma takiego komentarza', 11,1)
+end try
+begin catch
+                SELECT ERROR_NUMBER() AS 'NUMER BLEDU',ERROR_MESSAGE() AS 'KOMUNIKAT'
+end catch
+
+--USUWANIE
+alter procedure USUN_KOMENTARZ_PE1
+	@numer_komentarza varchar(50)
+AS
+	begin try
+		if exists (select * from projekt_pe where numer=@numer_komentarza)
+	begin
+		delete from projekt_pe where Sciezka = @numer_komentarza or Sciezka like '%/'+@numer_komentarza+'/%' or Sciezka like @numer_komentarza+'/%' or Sciezka like '%/'+@numer_komentarza
+		
+	 end
+	 else
+        raiserror ('Nie ma takiego komentarza', 11,1)
+end try
+begin catch
+                SELECT ERROR_NUMBER() AS 'NUMER BLEDU',ERROR_MESSAGE() AS 'KOMUNIKAT'
+end catch
+
+--RODZIC
+--I wersja
+create function RODZIC_PE28
+(@numer_komentarza smallint)
+returns @tabelka table
+(ojciec varchar(50))
+ 
+AS
+begin
+	declare @numer varchar(50)
+	set @numer=(select numer from projekt_pe where numer=@numer_komentarza)
+		if @numer=(select sciezka from projekt_pe where numer=@numer_komentarza)
+			insert into @tabelka values ('Nie ma ojca')
+		else
+			insert into @tabelka
+			select numer from projekt_pe p where p.sciezka=(select SUBSTRING(s.sciezka, 1, LEN(s.sciezka)-7)  from projekt_pe s  where s.numer=@numer_komentarza) --na sucho dziala ale w funkcji nie
+ 
+ 
+return
+end
+
+--II wersja
+alter function RODZIC_PE28
+(@numer_komentarza smallint)
+returns @tabelka table
+(ojciec varchar(50))
+ 
+AS
+begin
+	declare @numer varchar(50)
+	set @numer=(select numer from projekt_pe where numer=@numer_komentarza)
+		if @numer=(select sciezka from projekt_pe where numer=@numer_komentarza)
+			insert into @tabelka values('')
+		else
+			insert into @tabelka
+			select numer from projekt_pe p where p.sciezka=(select SUBSTRING(s.sciezka, 1, LEN(s.sciezka)-7)  from projekt_pe s  where s.numer=@numer_komentarza) --na sucho dziala ale w funkcji nie
+ 
+ 
+return
+end
+
+--WSZYSTKIE DZIECI Z RODZICEM+wywolanie
+alter function dzieci_pe5
+		(@numer varchar(50))
+returns table
+as
+return select * from projekt_pe as s where s.sciezka = @numer or s.Sciezka like @numer+'/%' or s.Sciezka like '%/'+@numer+'/%' or s.Sciezka like '%'+@numer+'%'
+
+select * from dzieci_pe5('000389')
+
+--ZLICZANIE ODPOWIEDZI DO KOMENTARZA
+alter function odpowiedzi_do_komenntarza
+		(@numer varchar(50))
+returns table
+as 
+return select count (*) 'suma' from projekt_pe s where  s.Sciezka like @numer+'/%' or s.Sciezka like '%/'+@numer+'/%'

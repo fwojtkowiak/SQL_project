@@ -1,0 +1,79 @@
+select * from projekt_ct_p
+--dodawanie nowego komentarza 
+INSERT INTO projekt_ct_p (numer_komentarza, nastepnik_komentarza, glebokosc)
+SELECT t.numer_komentarza, 1001, t.glebokosc+1
+FROM projekt_ct_p AS t
+WHERE t.nastepnik_komentarza = 1000
+UNION ALL
+SELECT 1001, 1001, 0;
+
+
+
+create procedure NOWY_KOMENTARZ_ct
+@numer_komentarza varchar(50),
+@grupa varchar(50),
+@dzial varchar(50),
+@czlowiek varchar(50),
+@nowy_numer_komentarza varchar(50),
+@tresc_komentarza varchar(50)
+AS
+begin try
+if exists (select * from projekt_ct_p where numer_komentarza=@numer_komentarza)
+begin
+INSERT INTO projekt_ct_p (numer_komentarza, nastepnik_komentarza, glebokosc)
+SELECT t.numer_komentarza, @nowy_numer_komentarza, t.glebokosc+1
+FROM projekt_ct_p AS t
+WHERE t.nastepnik_komentarza = @numer_komentarza
+UNION ALL
+SELECT @nowy_numer_komentarza, @nowy_numer_komentarza, 0;
+end
+else
+                raiserror ('Nie ma takiego komentarza', 11,1)
+end try
+begin catch
+                SELECT ERROR_NUMBER() AS 'NUMER BLEDU',ERROR_MESSAGE() AS 'KOMUNIKAT'
+end catch
+
+
+--usuwanie komentarza DZIALA
+alter procedure USUN_KOMENTARZ_ct
+	@numer_komentarza varchar(50)
+AS
+	begin try
+		if exists (select * from projekt_ct_p where numer_komentarza=@numer_komentarza)
+		begin
+			delete from projekt_ct_p
+			where numer_komentarza=@numer_komentarza;
+
+			delete from projekt_ct_info
+			where Numer=@numer_komentarza
+		end
+	  else
+                raiserror ('Nie ma takiego komentarza', 11,1)
+end try
+begin catch
+                SELECT ERROR_NUMBER() AS 'NUMER BLEDU',ERROR_MESSAGE() AS 'KOMUNIKAT'
+
+end catch
+
+--poprawiona funkcja do dzieci CT
+alter function dzieci_ct_p
+	(@numer_komentarza int)
+returns table
+AS
+return
+select t2.numer, t2.komentarz, t2.grupa, t2.dzial, t2.osoba
+from projekt_ct_p t1 join projekt_ct_info t2
+on t1.nastepnik_komentarza=t2.numer
+where t1.numer_komentarza=@numer_komentarza
+
+--poprawiona dunkcja dla rodizca CT
+alter function rodzic_ct_p
+	(@numer_dziecka varchar(50))
+returns table
+AS
+return
+select t2.numer
+from projekt_ct_p t1 join projekt_ct_info t2
+on t1.numer_komentarza=t2.numer
+where nastepnik_komentarza=@numer_dziecka and glebokosc=1 
