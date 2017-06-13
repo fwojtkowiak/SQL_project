@@ -1,0 +1,16 @@
+create function RODZIC_Path
+(@numer_komentarza smallint)
+returns @tabelka table
+(ojciec varchar(50))
+ 
+AS
+begin
+	declare @numer varchar(50)
+	set @numer=(select numer from projekt_pe where numer=@numer_komentarza)
+		if @numer<>(select sciezka from projekt_pe where numer=@numer_komentarza)
+			insert into @tabelka
+			select numer from projekt_pe p where p.sciezka=(select SUBSTRING(s.sciezka, 1, LEN(s.sciezka)-7)  from projekt_pe s  where s.numer=@numer_komentarza) --na sucho dziala ale w funkcji nie
+ 
+ 
+return
+end
